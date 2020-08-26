@@ -12,4 +12,4 @@ team: magentou
 
 Learn about server side request forgery SSRF and how to deal with it.
 
->[!VIDEO](https://video.tv.adobe.com/v/35822)
+>[!VIDEO](https://video.tv.adobe.com/v/35822?quality=12&learn=on)

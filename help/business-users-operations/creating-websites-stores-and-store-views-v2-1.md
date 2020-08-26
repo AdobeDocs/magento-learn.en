@@ -12,4 +12,4 @@ team: magentou
 
 Learn how to create websites, stores and store views.
 
->[!VIDEO](https://video.tv.adobe.com/v/35787)
+>[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)

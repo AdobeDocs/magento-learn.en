@@ -12,6 +12,6 @@ team: magentou
 
 Learn about considerations when choosing and customizing a new theme, and what you can do out of the box.
 
->[!VIDEO](https://video.tv.adobe.com/v/35699)
+>[!VIDEO](https://video.tv.adobe.com/v/35699?quality=12&learn=on)
 
 **Community Video**

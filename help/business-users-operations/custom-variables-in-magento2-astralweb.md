@@ -12,4 +12,4 @@ team: magentou
 
 Learn about custom variables.
 
->[!VIDEO](https://video.tv.adobe.com/v/35737)
+>[!VIDEO](https://video.tv.adobe.com/v/35737?quality=12&learn=on)

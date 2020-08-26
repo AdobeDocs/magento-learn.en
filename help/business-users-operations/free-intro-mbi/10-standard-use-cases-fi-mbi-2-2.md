@@ -12,4 +12,4 @@ team: magentou
 
 Learn about MBI standard use cases.
 
->[!VIDEO](https://video.tv.adobe.com/v/35987)
+>[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)

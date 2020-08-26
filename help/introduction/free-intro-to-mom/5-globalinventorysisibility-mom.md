@@ -12,4 +12,4 @@ team: magentou
 
 Learn about managing global inventory, calculating ATP and creating aggregates.
 
->[!VIDEO](https://video.tv.adobe.com/v/35969)
+>[!VIDEO](https://video.tv.adobe.com/v/35969?quality=12&learn=on)

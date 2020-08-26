@@ -12,5 +12,5 @@ team: magentou
 
 Learn about importing and exporting products.
 
->[!VIDEO](https://video.tv.adobe.com/v/35958)
+>[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 

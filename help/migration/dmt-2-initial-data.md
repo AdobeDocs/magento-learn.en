@@ -12,4 +12,4 @@ team: magentou
 
 Examine the data you will be migrating and compare tables and fields.
 
->[!VIDEO](https://video.tv.adobe.com/v/35827)
+>[!VIDEO](https://video.tv.adobe.com/v/35827?quality=12&learn=on)

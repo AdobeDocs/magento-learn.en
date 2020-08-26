@@ -12,6 +12,6 @@ team: magentou
 
 An overview of the migration steps.
 
->[!VIDEO](https://video.tv.adobe.com/v/35705)
+>[!VIDEO](https://video.tv.adobe.com/v/35705?quality=12&learn=on)
 
 **Community Video**

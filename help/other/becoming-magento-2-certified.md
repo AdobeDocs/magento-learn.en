@@ -12,4 +12,4 @@ team: magentou
 
 Magento Master Vinai Kopp discusses Magento certifications in this conference recording.
 
->[!VIDEO](https://video.tv.adobe.com/v/35755)
+>[!VIDEO](https://video.tv.adobe.com/v/35755?quality=12&learn=on)

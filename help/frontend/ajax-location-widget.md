@@ -12,7 +12,7 @@ team: magentou
 
 Learn to create a Location jQuery widget using third-party services in your Magento 2 store.
 
->[!VIDEO](https://video.tv.adobe.com/v/35762)
+>[!VIDEO](https://video.tv.adobe.com/v/35762?quality=12&learn=on)
 
 ## Useful links
 

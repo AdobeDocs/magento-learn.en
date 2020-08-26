@@ -12,4 +12,4 @@ team: magentou
 
 Go live. DNS, TLS, Fastly. At the end of this section a student will know how to configure DNS to point to the production domain for the Magento Cloud instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/35697)
+>[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)

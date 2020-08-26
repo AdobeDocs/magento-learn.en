@@ -12,6 +12,6 @@ team: magentou
 
 Learn about manually migrating media, storefront design, administrator user accounts, access control lists (ACLs), and manually recreating web service APIs.
 
->[!VIDEO](https://video.tv.adobe.com/v/35836)
+>[!VIDEO](https://video.tv.adobe.com/v/35836?quality=12&learn=on)
 
 **Community Video**

@@ -14,4 +14,4 @@ Learn high level best practices to use with your stores​.
 
 [Exercise Files](/help/security/assets/Security-Exercise-Files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35722)
+>[!VIDEO](https://video.tv.adobe.com/v/35722?quality=12&learn=on)

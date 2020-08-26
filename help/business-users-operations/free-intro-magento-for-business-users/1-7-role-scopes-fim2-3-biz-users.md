@@ -12,4 +12,4 @@ team: magentou
 
 Learn about role scopes, which is a feature exclusive to Magento Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/35948)
+>[!VIDEO](https://video.tv.adobe.com/v/35948?quality=12&learn=on)

@@ -12,4 +12,4 @@ team: magentou
 
 Learn how to manage Magento 2 admin users and roles by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35738)
+>[!VIDEO](https://video.tv.adobe.com/v/35738?quality=12&learn=on)

@@ -12,6 +12,6 @@ team: magentou
 
 Learn about working with existing extensions, minimum viable product and phased approach.
 
->[!VIDEO](https://video.tv.adobe.com/v/35700)
+>[!VIDEO](https://video.tv.adobe.com/v/35700?quality=12&learn=on)
 
 **Community Video**

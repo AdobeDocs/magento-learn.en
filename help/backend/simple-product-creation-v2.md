@@ -12,7 +12,7 @@ team: magentou
 
 In this short video we will demonstrate creating a simple product based on a product attribute set.
 
->[!VIDEO](https://video.tv.adobe.com/v/35786)
+>[!VIDEO](https://video.tv.adobe.com/v/35786?quality=12&learn=on)
 
 ## Useful links
 

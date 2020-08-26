@@ -12,7 +12,7 @@ team: magentou
 
 Data Migration part 2. Refer to Magento DevDocs, review the configuration file, and configure migration.
 
->[!VIDEO](https://video.tv.adobe.com/v/35841)
+>[!VIDEO](https://video.tv.adobe.com/v/35841?quality=12&learn=on)
 
 ## Useful links
 

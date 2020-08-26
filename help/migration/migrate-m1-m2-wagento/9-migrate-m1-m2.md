@@ -12,7 +12,7 @@ team: magentou
 
 Post Migration tasks include: working with split databases, group price, customer groups, and customer segments, time zone offset. Learn about the last steps to put Magento 1 store in maintenance mode and point to Magento 2 instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/35832)
+>[!VIDEO](https://video.tv.adobe.com/v/35832?quality=12&learn=on)
 
 ## Useful links
 

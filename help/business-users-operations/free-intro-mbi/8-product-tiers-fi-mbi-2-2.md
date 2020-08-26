@@ -12,4 +12,4 @@ team: magentou
 
 Learn about MBI product tiers.
 
->[!VIDEO](https://video.tv.adobe.com/v/35985)
+>[!VIDEO](https://video.tv.adobe.com/v/35985?quality=12&learn=on)

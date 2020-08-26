@@ -12,7 +12,7 @@ team: magentou
 
 Create a page that returns json with one parameter.
 
->[!VIDEO](https://video.tv.adobe.com/v/35816)
+>[!VIDEO](https://video.tv.adobe.com/v/35816?quality=12&learn=on)
 
 ## Useful links
 

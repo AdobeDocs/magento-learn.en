@@ -14,4 +14,4 @@ Learn to use features built into Magento to build secure modules​.
 
 [Exercise Files](/help/security/assets/Security-Exercise-Files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35724)
+>[!VIDEO](https://video.tv.adobe.com/v/35724?quality=12&learn=on)

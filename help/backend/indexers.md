@@ -19,14 +19,14 @@ Indexing is how Magento transforms data such as products and categories, to impr
     * [c24Trans_en.json](./assets/splitting-price-indexer-by-dimension/c24Trans_en.json)
     * [c24Trans_en.json](./assets/splitting-price-indexer-by-dimension/transcript_en.txt)
 
->[!VIDEO](https://video.tv.adobe.com/v/35457)
+>[!VIDEO](https://video.tv.adobe.com/v/35457?quality=12&learn=on)
 
 * **Run Indexation in Parallel Mode to reduce indexing time**
   * Attachment
     * [c24Trans_en.json](./assets/run-indexation-in-parallel-mode-to-reduce-indexing-time/c24Trans_en.json)
     * [c24Trans_en.json](./assets/run-indexation-in-parallel-mode-to-reduce-indexing-time/transcript_en.txt)
 
->[!VIDEO](https://video.tv.adobe.com/v/35454)
+>[!VIDEO](https://video.tv.adobe.com/v/35454?quality=12&learn=on)
 
 ## Useful links
 

@@ -12,6 +12,6 @@ team: magentou
 
 Topics for this video series.
 
->[!VIDEO](https://video.tv.adobe.com/v/35703)
+>[!VIDEO](https://video.tv.adobe.com/v/35703?quality=12&learn=on)
 
 **Community Video**

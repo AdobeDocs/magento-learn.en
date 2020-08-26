@@ -12,4 +12,4 @@ team: magentou
 
 Overview of the admin menu.
 
->[!VIDEO](https://video.tv.adobe.com/v/35944)
+>[!VIDEO](https://video.tv.adobe.com/v/35944?quality=12&learn=on)

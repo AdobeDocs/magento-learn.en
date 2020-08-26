@@ -12,4 +12,4 @@ team: magentou
 
 The Magento 2 admin, the password-protected back office where you can set up products and promotions, fulfill customer orders, and configure your Magento 2 store to suit your business needs.
 
->[!VIDEO](https://video.tv.adobe.com/v/35942)
+>[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)

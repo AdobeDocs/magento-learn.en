@@ -12,6 +12,6 @@ team: magentou
 
 An overview of the steps involved in migrating from Magento 1 to Magento 2.
 
->[!VIDEO](https://video.tv.adobe.com/v/35837)
+>[!VIDEO](https://video.tv.adobe.com/v/35837?quality=12&learn=on)
 
 **Community Video**

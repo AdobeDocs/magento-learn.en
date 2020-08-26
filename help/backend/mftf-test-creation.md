@@ -12,7 +12,7 @@ team: magentou
 
 Learn about the Magento Functional Testing Framework – how to use it, how to install it, and a quick walkthrough demo.
 
->[!VIDEO](https://video.tv.adobe.com/v/35770)
+>[!VIDEO](https://video.tv.adobe.com/v/35770?quality=12&learn=on)
 
 ## Useful links
 

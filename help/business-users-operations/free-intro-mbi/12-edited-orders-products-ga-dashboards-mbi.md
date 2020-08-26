@@ -12,4 +12,4 @@ team: magentou
 
 Category reporting delivers a high level overview of select product categories and highlights the combination of categories that are bought by the same customers over their lifetime.
 
->[!VIDEO](https://video.tv.adobe.com/v/35989)
+>[!VIDEO](https://video.tv.adobe.com/v/35989?quality=12&learn=on)

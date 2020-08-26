@@ -17,7 +17,7 @@ Magento 2 includes Less as a basic CSS pre-processor which makes CSS styling and
 * Configure theme in the Admin panel
 * Declare layout file (in our case we’ll create **default.xml** layout file)
 
->[!VIDEO](https://video.tv.adobe.com/v/35757)
+>[!VIDEO](https://video.tv.adobe.com/v/35757?quality=12&learn=on)
 
 ## Useful links
 

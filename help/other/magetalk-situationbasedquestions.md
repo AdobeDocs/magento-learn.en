@@ -12,7 +12,7 @@ team: magentou
 
 The MageTalk podcast discusses the benefits of situation-based certification exam questions.
 
->[!VIDEO](https://video.tv.adobe.com/v/35767)
+>[!VIDEO](https://video.tv.adobe.com/v/35767?quality=12&learn=on)
 
 **Related Link**
 

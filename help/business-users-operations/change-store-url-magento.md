@@ -12,4 +12,4 @@ team: magentou
 
 Follow a few simple steps to change your store URL in Magento 2. Author: Rebecca Brocton
 
->[!VIDEO](https://video.tv.adobe.com/v/35488)
+>[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)

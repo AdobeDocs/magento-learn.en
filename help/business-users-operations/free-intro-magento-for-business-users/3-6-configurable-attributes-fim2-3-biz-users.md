@@ -12,5 +12,5 @@ team: magentou
 
 Learn about configurable product attributes.
 
->[!VIDEO](https://video.tv.adobe.com/v/35957)
+>[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 

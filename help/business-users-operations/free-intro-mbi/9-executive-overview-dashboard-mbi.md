@@ -12,4 +12,4 @@ team: magentou
 
 See a demonstration of the executive overview dashboard.
 
->[!VIDEO](https://video.tv.adobe.com/v/35986)
+>[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)

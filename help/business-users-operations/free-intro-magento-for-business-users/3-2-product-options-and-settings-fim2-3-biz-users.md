@@ -12,4 +12,4 @@ team: magentou
 
 Learn about options and settings for product types.
 
->[!VIDEO](https://video.tv.adobe.com/v/35953)
+>[!VIDEO](https://video.tv.adobe.com/v/35953?quality=12&learn=on)

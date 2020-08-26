@@ -12,6 +12,6 @@ team: magentou
 
 Session 3 in this series.
 
->[!VIDEO](https://video.tv.adobe.com/v/35707)
+>[!VIDEO](https://video.tv.adobe.com/v/35707?quality=12&learn=on)
 
 **Community Video**

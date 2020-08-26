@@ -12,4 +12,4 @@ team: magentou
 
 Customize the Page Builder theme.
 
->[!VIDEO](https://video.tv.adobe.com/v/35713)
+>[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)

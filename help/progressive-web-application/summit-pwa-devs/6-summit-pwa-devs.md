@@ -14,4 +14,4 @@ Learn about Peregrine Hooks and Talons, the Peregrine library and the motivation
 
 [Exercise Files](/help/progressive-web-application/assets/PWA-Exercise-Skeleton-files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35720)
+>[!VIDEO](https://video.tv.adobe.com/v/35720?quality=12&learn=on)

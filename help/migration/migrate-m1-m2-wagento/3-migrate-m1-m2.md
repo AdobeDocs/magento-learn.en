@@ -12,6 +12,6 @@ team: magentou
 
 Episode 3 in the "Migration from Magento 1 to Magento 2" series is all about extensions and what to do with them during migration.
 
->[!VIDEO](https://video.tv.adobe.com/v/35839)
+>[!VIDEO](https://video.tv.adobe.com/v/35839?quality=12&learn=on)
 
 **Community Video**

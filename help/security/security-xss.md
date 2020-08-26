@@ -12,4 +12,4 @@ team: magentou
 
 Learn about cross-site scripting prevention. 
 
->[!VIDEO](https://video.tv.adobe.com/v/35823)
+>[!VIDEO](https://video.tv.adobe.com/v/35823?quality=12&learn=on)

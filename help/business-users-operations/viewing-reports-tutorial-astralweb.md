@@ -12,4 +12,4 @@ team: magentou
 
 Learn about viewing reports by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35750)
+>[!VIDEO](https://video.tv.adobe.com/v/35750?quality=12&learn=on)

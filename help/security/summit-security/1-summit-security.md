@@ -14,4 +14,4 @@ Learn how the e-commerce threat landscape is changing and the importance of secu
 
 [Exercise Files](/help/security/assets/Security-Exercise-Files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35721)
+>[!VIDEO](https://video.tv.adobe.com/v/35721?quality=12&learn=on)

@@ -12,5 +12,5 @@ team: magentou
 
 Learn about enabling layered navigation in your Magento 2 store so you can allow your customers to find the products they want both easily and quickly.
 
->[!VIDEO](https://video.tv.adobe.com/v/36186)
+>[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 

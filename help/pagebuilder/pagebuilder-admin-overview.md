@@ -21,7 +21,7 @@ Administrators can learn how to build pages using Page Builder.
 * 04:31 - Adding Media and Elements to your Columns and Rows
 * 07:36 - Adding and Formatting a Slider
 
->[!VIDEO](https://video.tv.adobe.com/v/35783)
+>[!VIDEO](https://video.tv.adobe.com/v/35783?quality=12&learn=on)
 
 ## Useful links
 

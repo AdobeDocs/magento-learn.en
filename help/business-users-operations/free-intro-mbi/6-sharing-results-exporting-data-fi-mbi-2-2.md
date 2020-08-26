@@ -12,4 +12,4 @@ team: magentou
 
 Learn about sharing results and exporting data.
 
->[!VIDEO](https://video.tv.adobe.com/v/35983)
+>[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)

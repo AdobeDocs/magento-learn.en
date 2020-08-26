@@ -14,4 +14,4 @@ Learn about progressive web apps PWA and why PWA Studio is the future​.
 
 [Exercise Files](/help/progressive-web-application/assets/PWA-Exercise-Skeleton-files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35715)
+>[!VIDEO](https://video.tv.adobe.com/v/35715?quality=12&learn=on)

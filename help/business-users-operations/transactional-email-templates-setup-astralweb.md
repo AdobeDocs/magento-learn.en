@@ -12,4 +12,4 @@ team: magentou
 
 Learn about transactional email templates and setup by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35749)
+>[!VIDEO](https://video.tv.adobe.com/v/35749?quality=12&learn=on)

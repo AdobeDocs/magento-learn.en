@@ -12,5 +12,5 @@ team: magentou
 
 Learn about gift cards in Magento.
 
->[!VIDEO](https://video.tv.adobe.com/v/35959)
+>[!VIDEO](https://video.tv.adobe.com/v/35959?quality=12&learn=on)
 

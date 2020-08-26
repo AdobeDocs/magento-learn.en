@@ -12,4 +12,4 @@ team: magentou
 
 Learn how to manage customer reviews on Magento 2 by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35745)
+>[!VIDEO](https://video.tv.adobe.com/v/35745?quality=12&learn=on)

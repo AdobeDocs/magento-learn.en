@@ -12,4 +12,4 @@ team: magentou
 
 Learn about advanced reporting in Magento 2.
 
->[!VIDEO](https://video.tv.adobe.com/v/35743)
+>[!VIDEO](https://video.tv.adobe.com/v/35743?quality=12&learn=on)

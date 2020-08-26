@@ -13,5 +13,5 @@ team: magentou
 Author: Astra Security  Twitter @getastra
 Learn the steps to harden linux server before installing Magento.
 
->[!VIDEO](https://video.tv.adobe.com/v/35824)
+>[!VIDEO](https://video.tv.adobe.com/v/35824?quality=12&learn=on)
 

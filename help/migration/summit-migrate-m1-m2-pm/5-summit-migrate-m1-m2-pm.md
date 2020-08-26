@@ -12,6 +12,6 @@ team: magentou
 
 Review a 7 step migration plan.
 
->[!VIDEO](https://video.tv.adobe.com/v/35702)
+>[!VIDEO](https://video.tv.adobe.com/v/35702?quality=12&learn=on)
 
 **Community Video**

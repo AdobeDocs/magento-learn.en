@@ -12,4 +12,4 @@ team: magentou
 
 Learn how to access a product object from any place on a product view page, like blocks or templates.
 
->[!VIDEO](https://video.tv.adobe.com/v/35768)
+>[!VIDEO](https://video.tv.adobe.com/v/35768?quality=12&learn=on)

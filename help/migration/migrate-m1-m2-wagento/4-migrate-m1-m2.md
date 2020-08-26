@@ -12,7 +12,7 @@ team: magentou
 
 Episode 4 in the "Migration from Magento 1 to Magento 2." Magento 1 code will require rewriting. Learn about the migration toolkit and steps to run your migration.
 
->[!VIDEO](https://video.tv.adobe.com/v/35835)
+>[!VIDEO](https://video.tv.adobe.com/v/35835?quality=12&learn=on)
 
 ## Useful links
 

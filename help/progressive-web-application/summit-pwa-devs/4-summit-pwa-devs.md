@@ -14,4 +14,4 @@ A high level overveiew of UPWARD.
 
 [Exercise Files](/help/progressive-web-application/assets/PWA-Exercise-Skeleton-files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35718)
+>[!VIDEO](https://video.tv.adobe.com/v/35718?quality=12&learn=on)

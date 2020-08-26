@@ -12,4 +12,4 @@ team: magentou
 
 Learn about Magento Business Intelligence for order management systems.
 
->[!VIDEO](https://video.tv.adobe.com/v/35977)
+>[!VIDEO](https://video.tv.adobe.com/v/35977?quality=12&learn=on)

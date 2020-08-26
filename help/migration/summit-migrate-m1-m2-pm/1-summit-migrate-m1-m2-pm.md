@@ -12,6 +12,6 @@ team: magentou
 
 Introduction to the series "Migrating from Magento 1 to Magento 2 for Project Managers."
 
->[!VIDEO](https://video.tv.adobe.com/v/35698)
+>[!VIDEO](https://video.tv.adobe.com/v/35698?quality=12&learn=on)
 
 **Community Video**

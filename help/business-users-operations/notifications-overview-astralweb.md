@@ -12,4 +12,4 @@ team: magentou
 
 An overview of notifications by Astralweb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35744)
+>[!VIDEO](https://video.tv.adobe.com/v/35744?quality=12&learn=on)

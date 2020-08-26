@@ -12,4 +12,4 @@ team: magentou
 
 Learn about locale settings, store information, secure and unsecure urls, website title, logo, copyright information, store communications including email logos, email addresses, invoice, shipment, and credit memo logs, and currency options and rates.
 
->[!VIDEO](https://video.tv.adobe.com/v/35949)
+>[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)

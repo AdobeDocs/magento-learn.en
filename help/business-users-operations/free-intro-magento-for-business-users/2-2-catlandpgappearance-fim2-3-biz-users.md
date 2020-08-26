@@ -12,4 +12,4 @@ team: magentou
 
 Learn about category landing page appearance.
 
->[!VIDEO](https://video.tv.adobe.com/v/35951)
+>[!VIDEO](https://video.tv.adobe.com/v/35951?quality=12&learn=on)

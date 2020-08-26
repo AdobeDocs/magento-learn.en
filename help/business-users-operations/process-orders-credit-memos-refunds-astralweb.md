@@ -12,4 +12,4 @@ team: magentou
 
 Learn how to process orders, credit memos, refunds by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35739)
+>[!VIDEO](https://video.tv.adobe.com/v/35739?quality=12&learn=on)

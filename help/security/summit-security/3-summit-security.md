@@ -14,4 +14,4 @@ Learn about some common attack vectors targeting Magento​ and how to implement
 
 [Exercise Files](/help/security/assets/Security-Exercise-Files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35723)
+>[!VIDEO](https://video.tv.adobe.com/v/35723?quality=12&learn=on)

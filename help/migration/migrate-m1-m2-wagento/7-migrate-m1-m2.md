@@ -12,7 +12,7 @@ team: magentou
 
 Delta migration updates your M2 store with new orders and customers from your M1 store. You can extend the Tool to migrate additional tables. 
 
->[!VIDEO](https://video.tv.adobe.com/v/35838)
+>[!VIDEO](https://video.tv.adobe.com/v/35838?quality=12&learn=on)
 
 ## Useful links
 

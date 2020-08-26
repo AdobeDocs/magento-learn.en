@@ -12,4 +12,4 @@ team: magentou
 
 Learn about Composer installation and sample data.
 
->[!VIDEO](https://video.tv.adobe.com/v/36194)
+>[!VIDEO](https://video.tv.adobe.com/v/36194?quality=12&learn=on)

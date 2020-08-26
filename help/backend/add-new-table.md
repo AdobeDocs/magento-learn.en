@@ -16,7 +16,7 @@ Rather than doing manual SQL operations repeatedly when reinstalling the system,
 
 ## Video content
 
->[!VIDEO](https://video.tv.adobe.com/v/35791)
+>[!VIDEO](https://video.tv.adobe.com/v/35791?quality=12&learn=on)
 
 ## Useful links
 

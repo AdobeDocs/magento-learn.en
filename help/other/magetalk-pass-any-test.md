@@ -12,7 +12,7 @@ team: magentou
 
 The MageTalk podcast provides tips pass any test.
 
->[!VIDEO](https://video.tv.adobe.com/v/35764)
+>[!VIDEO](https://video.tv.adobe.com/v/35764?quality=12&learn=on)
 
 **Related Link**
 

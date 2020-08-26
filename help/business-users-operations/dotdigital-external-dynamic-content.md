@@ -12,4 +12,4 @@ team: magentou
 
 Learn about DotDigital and Magento 2 external dynamic content.
 
->[!VIDEO](https://video.tv.adobe.com/v/35730)
+>[!VIDEO](https://video.tv.adobe.com/v/35730?quality=12&learn=on)

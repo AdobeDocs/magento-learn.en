@@ -12,7 +12,7 @@ team: magentou
 
 MageTalk discusses general data protection regulation (GDPR).
 
->[!VIDEO](https://video.tv.adobe.com/v/35763)
+>[!VIDEO](https://video.tv.adobe.com/v/35763?quality=12&learn=on)
 
 **Related Link**
 

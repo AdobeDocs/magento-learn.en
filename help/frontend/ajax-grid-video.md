@@ -12,7 +12,7 @@ team: magentou
 
 Learn to create a simple JavaScript jQuery widget module in Magento 2.
 
->[!VIDEO](https://video.tv.adobe.com/v/35761)
+>[!VIDEO](https://video.tv.adobe.com/v/35761?quality=12&learn=on)
 
 ## Useful links
 

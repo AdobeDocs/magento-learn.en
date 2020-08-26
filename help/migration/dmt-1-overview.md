@@ -12,4 +12,4 @@ team: magentou
 
 The Data migration tool is a command-line interface that verifies consistency between Magento 1 and 2 database structures, tracks the data transfer process, creates logs, and runs data verification tests.
 
->[!VIDEO](https://video.tv.adobe.com/v/35829)
+>[!VIDEO](https://video.tv.adobe.com/v/35829?quality=12&learn=on)

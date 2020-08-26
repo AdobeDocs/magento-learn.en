@@ -12,4 +12,4 @@ team: magentou
 
 See a demonstration of creating a simple product using product attribute sets.
 
->[!VIDEO](https://video.tv.adobe.com/v/35956)
+>[!VIDEO](https://video.tv.adobe.com/v/35956?quality=12&learn=on)

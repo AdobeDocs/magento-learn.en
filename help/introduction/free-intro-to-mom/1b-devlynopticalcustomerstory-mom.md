@@ -14,4 +14,4 @@ View the Devlyn Optical customer story.
 
 **VIDEO NOT ENCODING**
 
->[!VIDEO](https://video.tv.adobe.com/v/36377)
+>[!VIDEO](https://video.tv.adobe.com/v/36377?quality=12&learn=on)

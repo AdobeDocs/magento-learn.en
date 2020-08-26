@@ -12,4 +12,4 @@ team: magentou
 
 Identify the key technologies within the Cloud stack​. Describe the content delivery strategy for Magento Commerce Cloud. Understand the value of the read-only core file system.
 
->[!VIDEO](https://video.tv.adobe.com/v/35298)
+>[!VIDEO](https://video.tv.adobe.com/v/35298?quality=12&learn=on)

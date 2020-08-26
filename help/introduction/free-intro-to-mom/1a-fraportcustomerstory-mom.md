@@ -12,4 +12,4 @@ team: magentou
 
 View the Fraport customer story.
 
->[!VIDEO](https://video.tv.adobe.com/v/35962)
+>[!VIDEO](https://video.tv.adobe.com/v/35962?quality=12&learn=on)

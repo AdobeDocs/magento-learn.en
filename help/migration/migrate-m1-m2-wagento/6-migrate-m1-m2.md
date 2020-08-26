@@ -12,6 +12,6 @@ team: magentou
 
 Learn about starting data migration.
 
->[!VIDEO](https://video.tv.adobe.com/v/35833)
+>[!VIDEO](https://video.tv.adobe.com/v/35833?quality=12&learn=on)
 
 **Community Video**

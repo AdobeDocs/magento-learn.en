@@ -12,6 +12,6 @@ team: magentou
 
 Learn about custom code, writing custom code and standards to adhere to.
 
->[!VIDEO](https://video.tv.adobe.com/v/35701)
+>[!VIDEO](https://video.tv.adobe.com/v/35701?quality=12&learn=on)
 
 **Community Video**

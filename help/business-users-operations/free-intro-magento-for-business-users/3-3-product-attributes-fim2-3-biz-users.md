@@ -12,4 +12,4 @@ team: magentou
 
 Learn about product attributes for various products.
 
->[!VIDEO](https://video.tv.adobe.com/v/35954)
+>[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)

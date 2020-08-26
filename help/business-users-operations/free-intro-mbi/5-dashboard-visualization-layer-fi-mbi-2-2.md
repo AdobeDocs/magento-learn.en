@@ -12,4 +12,4 @@ team: magentou
 
 Learn about the dashboard and visualization layer.
 
->[!VIDEO](https://video.tv.adobe.com/v/35982)
+>[!VIDEO](https://video.tv.adobe.com/v/35982?quality=12&learn=on)

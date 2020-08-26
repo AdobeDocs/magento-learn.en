@@ -12,4 +12,4 @@ team: magentou
 
 Learn about product types and the options for each product type.
 
->[!VIDEO](https://video.tv.adobe.com/v/35952)
+>[!VIDEO](https://video.tv.adobe.com/v/35952?quality=12&learn=on)

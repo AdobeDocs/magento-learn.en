@@ -12,4 +12,4 @@ team: magentou
 
 Learn about DotDigital and Magento 2 automation.
 
->[!VIDEO](https://video.tv.adobe.com/v/35733)
+>[!VIDEO](https://video.tv.adobe.com/v/35733?quality=12&learn=on)

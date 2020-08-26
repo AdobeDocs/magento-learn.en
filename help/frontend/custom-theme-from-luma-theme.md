@@ -18,7 +18,7 @@ In this video, we’ll review creating a custom theme based on the Magento “Lu
 * Configure theme in the Admin panel
 * Declare layout file (in our case we’ll create **default.xml** layout file)
 
->[!VIDEO](https://video.tv.adobe.com/v/35756)
+>[!VIDEO](https://video.tv.adobe.com/v/35756?quality=12&learn=on)
 
 ## Useful links
 

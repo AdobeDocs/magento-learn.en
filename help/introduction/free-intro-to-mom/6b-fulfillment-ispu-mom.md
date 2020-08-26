@@ -12,4 +12,4 @@ team: magentou
 
 Store associates and administrators can learn about the in store pickup process.
 
->[!VIDEO](https://video.tv.adobe.com/v/35972)
+>[!VIDEO](https://video.tv.adobe.com/v/35972?quality=12&learn=on)

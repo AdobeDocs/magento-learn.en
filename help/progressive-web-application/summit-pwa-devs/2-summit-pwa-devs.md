@@ -14,4 +14,4 @@ View an introduction to Magento PWA Studio.
 
 [Exercise Files](/help/progressive-web-application/assets/PWA-Exercise-Skeleton-files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35716)
+>[!VIDEO](https://video.tv.adobe.com/v/35716?quality=12&learn=on)

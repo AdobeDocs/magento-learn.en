@@ -14,7 +14,7 @@ Magento provides several commands to help convert your installation and upgrade 
 
 In this short video, we will demonstrate how to use the Magento 2.3 schema listener tool. 
 
->[!VIDEO](https://video.tv.adobe.com/v/35817)
+>[!VIDEO](https://video.tv.adobe.com/v/35817?quality=12&learn=on)
 
 ## Useful links
 

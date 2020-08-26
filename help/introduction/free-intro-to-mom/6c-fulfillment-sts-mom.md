@@ -12,4 +12,4 @@ team: magentou
 
 Store associates and administrators can learn about the ship to store process.
 
->[!VIDEO](https://video.tv.adobe.com/v/35973)
+>[!VIDEO](https://video.tv.adobe.com/v/35973?quality=12&learn=on)

@@ -12,4 +12,4 @@ team: magentou
 
 Learn about the value proposition for primary use cases, inventory complexity and omnichannel.
 
->[!VIDEO](https://video.tv.adobe.com/v/35961)
+>[!VIDEO](https://video.tv.adobe.com/v/35961?quality=12&learn=on)

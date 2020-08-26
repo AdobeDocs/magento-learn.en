@@ -15,10 +15,10 @@ In these two videos you will learn some tips to speed up a Magento-based webstor
 
 * **Speed up your Magento 2 store by BelVG**
 
->[!VIDEO](https://video.tv.adobe.com/v/35782)
+>[!VIDEO](https://video.tv.adobe.com/v/35782?quality=12&learn=on)
 
 * **3 ways to reset your admin password by BelVG**
 
->[!VIDEO](https://video.tv.adobe.com/v/35751)
+>[!VIDEO](https://video.tv.adobe.com/v/35751?quality=12&learn=on)
 
 **NOTE:** Regarding changing the password with PHP: it is generally not a best practice to edit anything in the database directly, specifically sensitive password information. That method may not function in all cases. It is a best practice to reset passwords with CLI commands, as described in Magento [DevDocs](https://devdocs.magento.com/guides/v2.3/install-gde/install/cli/install-cli-subcommands-admin.html)

@@ -12,4 +12,4 @@ team: magentou
 
 View an introduction to the Magento security scan tool by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35741)
+>[!VIDEO](https://video.tv.adobe.com/v/35741?quality=12&learn=on)

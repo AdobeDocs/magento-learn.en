@@ -19,67 +19,67 @@ Businesses and developers looking to take advantage of the benefits Magento Comm
 
 #### Backend Search Terms Synonyms and Optimization by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35735)
+>[!VIDEO](https://video.tv.adobe.com/v/35735?quality=12&learn=on)
 
 #### Create Manual Magento 2 Backups Tutorial by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35736)
+>[!VIDEO](https://video.tv.adobe.com/v/35736?quality=12&learn=on)
 
 #### Custom Variables in Magento 2 by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35737)
+>[!VIDEO](https://video.tv.adobe.com/v/35737?quality=12&learn=on)
 
 #### How to Manage Magento 2 Admin Users and Roles by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35738)
+>[!VIDEO](https://video.tv.adobe.com/v/35738?quality=12&learn=on)
 
 #### How to Process Orders, Credit Memos, Refunds by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35739)
+>[!VIDEO](https://video.tv.adobe.com/v/35739?quality=12&learn=on)
 
 #### Install Google Analytics on Magento 2 by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35740)
+>[!VIDEO](https://video.tv.adobe.com/v/35740?quality=12&learn=on)
 
 #### Introduction to Magento Security Scan Tool by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35741)
+>[!VIDEO](https://video.tv.adobe.com/v/35741?quality=12&learn=on)
 
 #### Locked Users in Magento 2 by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35742)
+>[!VIDEO](https://video.tv.adobe.com/v/35742?quality=12&learn=on)
 
 #### Magento 2 Advanced Reporting by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35743)
+>[!VIDEO](https://video.tv.adobe.com/v/35743?quality=12&learn=on)
 
 #### Magento 2 Notifications Overview by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35744)
+>[!VIDEO](https://video.tv.adobe.com/v/35744?quality=12&learn=on)
 
 #### Manage Customer Reviews on Magento 2 by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35745)
+>[!VIDEO](https://video.tv.adobe.com/v/35745?quality=12&learn=on)
 
 #### Overview of Customer Management by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35746)
+>[!VIDEO](https://video.tv.adobe.com/v/35746?quality=12&learn=on)
 
 #### Setup Tax Rates Zones Rules Tutorial by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35747)
+>[!VIDEO](https://video.tv.adobe.com/v/35747?quality=12&learn=on)
 
 #### Sitemap Setup Tutorial by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35748)
+>[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 
 #### Transactional Email Templates and Setup by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35749)
+>[!VIDEO](https://video.tv.adobe.com/v/35749?quality=12&learn=on)
 
 #### Viewing Reports Tutorial by AstralWeb
 
->[!VIDEO](https://video.tv.adobe.com/v/35750)
+>[!VIDEO](https://video.tv.adobe.com/v/35750?quality=12&learn=on)
 
 **Also:**
 [Install CLI Backup](https://devdocs.magento.com/guides/v2.4/install-gde/install/cli/install-cli-backup.html)

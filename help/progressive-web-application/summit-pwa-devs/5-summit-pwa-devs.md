@@ -15,4 +15,4 @@ Learn how to get started with Magento PWA Studio from initial project setup to g
 
 [Exercise Files](/help/progressive-web-application/assets/PWA-Exercise-Skeleton-files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35719)
+>[!VIDEO](https://video.tv.adobe.com/v/35719?quality=12&learn=on)

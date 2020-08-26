@@ -12,4 +12,4 @@ team: magentou
 
 Learn about options to build reports.
 
->[!VIDEO](https://video.tv.adobe.com/v/35981)
+>[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)

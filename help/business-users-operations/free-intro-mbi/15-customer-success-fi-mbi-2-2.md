@@ -12,4 +12,4 @@ team: magentou
 
 Learn about customer success.
 
->[!VIDEO](https://video.tv.adobe.com/v/35992)
+>[!VIDEO](https://video.tv.adobe.com/v/35992?quality=12&learn=on)

@@ -12,4 +12,4 @@ team: magentou
 
 Gain understanding about allocation and using the sourcing engine.
 
->[!VIDEO](https://video.tv.adobe.com/v/35970)
+>[!VIDEO](https://video.tv.adobe.com/v/35970?quality=12&learn=on)

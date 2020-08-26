@@ -12,4 +12,4 @@ team: magentou
 
 Learn how to install Google Analytics on Magento 2 by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35740)
+>[!VIDEO](https://video.tv.adobe.com/v/35740?quality=12&learn=on)

@@ -16,23 +16,23 @@ In these videos, you will learn about general data protection regulation (GDPR),
 
 * MageTalk GDPR
 
->[!VIDEO](https://video.tv.adobe.com/v/35763)
+>[!VIDEO](https://video.tv.adobe.com/v/35763?quality=12&learn=on)
 
 * MageTalk How to Pass Any Test
 
->[!VIDEO](https://video.tv.adobe.com/v/35764)
+>[!VIDEO](https://video.tv.adobe.com/v/35764?quality=12&learn=on)
 
 * MageTalk Little bit of code stuff
 
->[!VIDEO](https://video.tv.adobe.com/v/35765)
+>[!VIDEO](https://video.tv.adobe.com/v/35765?quality=12&learn=on)
 
 * MageTalk Preparing for a Certification Exam
 
->[!VIDEO](https://video.tv.adobe.com/v/35766)
+>[!VIDEO](https://video.tv.adobe.com/v/35766?quality=12&learn=on)
 
 * MageTalk Situation-based Certification Exam Questions
 
->[!VIDEO](https://video.tv.adobe.com/v/35767)
+>[!VIDEO](https://video.tv.adobe.com/v/35767?quality=12&learn=on)
 
 **Related Link**
 

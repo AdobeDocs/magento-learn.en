@@ -12,4 +12,4 @@ team: magentou
 
 Learn about existing Magento Cloud hosting solutions​. Understand differences between Starter and Pro accounts​.
 
->[!VIDEO](https://video.tv.adobe.com/v/35813)
+>[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)

@@ -12,4 +12,4 @@ team: magentou
 
 Learn about customer focused dashboards.
 
->[!VIDEO](https://video.tv.adobe.com/v/35990)
+>[!VIDEO](https://video.tv.adobe.com/v/35990?quality=12&learn=on)

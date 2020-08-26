@@ -12,4 +12,4 @@ team: magentou
 
 Learn about development configurations. 
 
->[!VIDEO](https://video.tv.adobe.com/v/35696)
+>[!VIDEO](https://video.tv.adobe.com/v/35696?quality=12&learn=on)

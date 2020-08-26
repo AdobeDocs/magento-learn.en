@@ -12,4 +12,4 @@ team: magentou
 
 Learn about Magento progressive web app (PWA) Docker development.
 
->[!VIDEO](https://video.tv.adobe.com/v/35784)
+>[!VIDEO](https://video.tv.adobe.com/v/35784?quality=12&learn=on)

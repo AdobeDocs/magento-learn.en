@@ -12,4 +12,4 @@ team: magentou
 
 Learn about category analysis.
 
->[!VIDEO](https://video.tv.adobe.com/v/35988)
+>[!VIDEO](https://video.tv.adobe.com/v/35988?quality=12&learn=on)

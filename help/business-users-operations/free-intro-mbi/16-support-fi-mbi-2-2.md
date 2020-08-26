@@ -12,4 +12,4 @@ team: magentou
 
 Learn how to find support for MBI.
 
->[!VIDEO](https://video.tv.adobe.com/v/35993)
+>[!VIDEO](https://video.tv.adobe.com/v/35993?quality=12&learn=on)

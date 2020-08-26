@@ -12,4 +12,4 @@ team: magentou
 
 See a demonstration of creating categories.
 
->[!VIDEO](https://video.tv.adobe.com/v/35950)
+>[!VIDEO](https://video.tv.adobe.com/v/35950?quality=12&learn=on)

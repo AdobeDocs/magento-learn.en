@@ -12,4 +12,4 @@ team: magentou
 
 Learn about order flow and event management.
 
->[!VIDEO](https://video.tv.adobe.com/v/35968)
+>[!VIDEO](https://video.tv.adobe.com/v/35968?quality=12&learn=on)

@@ -16,7 +16,7 @@ Debugging your theme and the exception “Required parameter 'theme_dir' was not
 * File operations
 * Clear the cache
 
->[!VIDEO](https://video.tv.adobe.com/v/35758)
+>[!VIDEO](https://video.tv.adobe.com/v/35758?quality=12&learn=on)
 
 ## Useful links
 

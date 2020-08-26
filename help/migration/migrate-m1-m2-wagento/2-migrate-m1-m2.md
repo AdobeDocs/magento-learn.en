@@ -12,6 +12,6 @@ team: magentou
 
 Migration and your theme. Episode 2 in the "Migration from Magento 1 to Magento 2" series covers theming options during migration.
 
->[!VIDEO](https://video.tv.adobe.com/v/35840)
+>[!VIDEO](https://video.tv.adobe.com/v/35840?quality=12&learn=on)
 
 **Community Video**

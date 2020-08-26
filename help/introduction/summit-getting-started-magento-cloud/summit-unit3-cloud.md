@@ -12,4 +12,4 @@ team: magentou
 
 Learn about project structure and yaml files. At the end of this module the student will understand the file structure of the Cloud project and all repositories necessary for Magento Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/35694)
+>[!VIDEO](https://video.tv.adobe.com/v/35694?quality=12&learn=on)

@@ -12,4 +12,4 @@ team: magentou
 
 View the Brown Forman customer story.
 
->[!VIDEO](https://video.tv.adobe.com/v/35965)
+>[!VIDEO](https://video.tv.adobe.com/v/35965?quality=12&learn=on)

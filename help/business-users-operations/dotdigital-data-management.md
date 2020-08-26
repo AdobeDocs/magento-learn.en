@@ -12,4 +12,4 @@ team: magentou
 
 Learn about DotDigital and Magento 2 data management.
 
->[!VIDEO](https://video.tv.adobe.com/v/35734)
+>[!VIDEO](https://video.tv.adobe.com/v/35734?quality=12&learn=on)

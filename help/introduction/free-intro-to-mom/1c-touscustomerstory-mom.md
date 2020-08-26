@@ -12,4 +12,4 @@ team: magentou
 
 View the Tous customer story.
 
->[!VIDEO](https://video.tv.adobe.com/v/35963)
+>[!VIDEO](https://video.tv.adobe.com/v/35963?quality=12&learn=on)

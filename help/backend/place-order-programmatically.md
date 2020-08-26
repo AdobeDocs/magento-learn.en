@@ -12,5 +12,5 @@ team: magentou
 
 Learn how to place an order in Magento store programmatically
 
->[!VIDEO](https://video.tv.adobe.com/v/35772)
+>[!VIDEO](https://video.tv.adobe.com/v/35772?quality=12&learn=on)
 

@@ -12,4 +12,4 @@ team: magentou
 
 Learn how to setup tax rates, zones and rules by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35747)
+>[!VIDEO](https://video.tv.adobe.com/v/35747?quality=12&learn=on)

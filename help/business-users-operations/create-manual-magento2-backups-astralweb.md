@@ -12,4 +12,4 @@ team: magentou
 
 Learn about creating manual Magento 2 backups.
 
->[!VIDEO](https://video.tv.adobe.com/v/35736)
+>[!VIDEO](https://video.tv.adobe.com/v/35736?quality=12&learn=on)

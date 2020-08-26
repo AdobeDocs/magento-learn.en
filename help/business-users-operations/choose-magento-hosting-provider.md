@@ -12,4 +12,4 @@ team: magentou
 
 Tips for choosing the right Magento hosting provider. Covers options such as cloud hosting, dedicated server, managed VPS, and understanding of their differences. Author: Rebecca Brocton
 
->[!VIDEO](https://video.tv.adobe.com/v/35771)
+>[!VIDEO](https://video.tv.adobe.com/v/35771?quality=12&learn=on)

@@ -12,4 +12,4 @@ team: magentou
 
 Learn about custom payment integration, out-of-the-box strategies and offline strategy.
 
->[!VIDEO](https://video.tv.adobe.com/v/35976)
+>[!VIDEO](https://video.tv.adobe.com/v/35976?quality=12&learn=on)

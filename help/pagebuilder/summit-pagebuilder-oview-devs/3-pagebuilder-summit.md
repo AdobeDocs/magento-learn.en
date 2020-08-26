@@ -12,4 +12,4 @@ team: magentou
 
 Receive an overview of theming practices, learn to describe the theming conventions​and explain where each part of the Page Builder theme is located.
 
->[!VIDEO](https://video.tv.adobe.com/v/35711)
+>[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)

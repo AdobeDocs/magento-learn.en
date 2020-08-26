@@ -12,4 +12,4 @@ team: magentou
 
 Learn about DotDigital and Magento 2 abandoned carts and email exclusion rules.
 
->[!VIDEO](https://video.tv.adobe.com/v/35732)
+>[!VIDEO](https://video.tv.adobe.com/v/35732?quality=12&learn=on)

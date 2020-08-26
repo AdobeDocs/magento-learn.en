@@ -12,7 +12,7 @@ team: magentou
 
 In this video we will develop a simple JS module that provides the greeting "Hello World".
 
->[!VIDEO](https://video.tv.adobe.com/v/35790)
+>[!VIDEO](https://video.tv.adobe.com/v/35790?quality=12&learn=on)
 
 ## Useful links
 

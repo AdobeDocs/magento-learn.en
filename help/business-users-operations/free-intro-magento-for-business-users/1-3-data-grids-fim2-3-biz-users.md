@@ -12,4 +12,4 @@ team: magentou
 
 Learn about working with data grids.
 
->[!VIDEO](https://video.tv.adobe.com/v/35960)
+>[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)

@@ -12,4 +12,4 @@ team: magentou
 
 Learn about communicating with your customers via transactional emails triggered by various actions they take on the storefront. Customize and configure transactional email templates for your store.
 
->[!VIDEO](https://video.tv.adobe.com/v/36190)
+>[!VIDEO](https://video.tv.adobe.com/v/36190?quality=12&learn=on)

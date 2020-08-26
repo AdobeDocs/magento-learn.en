@@ -12,7 +12,7 @@ team: magentou
 
 Advice for preparing for a certification exam.
 
->[!VIDEO](https://video.tv.adobe.com/v/35766)
+>[!VIDEO](https://video.tv.adobe.com/v/35766?quality=12&learn=on)
 
 **Related Link**
 

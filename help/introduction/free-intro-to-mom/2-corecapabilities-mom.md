@@ -12,4 +12,4 @@ team: magentou
 
 Learn about the Magento Order Management core capabilities including global inventory, distributed order management system, customer Service, store fulfillment, payments, and Magento Business Intelligence.
 
->[!VIDEO](https://video.tv.adobe.com/v/35966)
+>[!VIDEO](https://video.tv.adobe.com/v/35966?quality=12&learn=on)

@@ -12,4 +12,4 @@ team: magentou
 
 Learn about administrator and stage theming tasks, create administrator templates and apply styles to content types on the stage.
 
->[!VIDEO](https://video.tv.adobe.com/v/35712)
+>[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)

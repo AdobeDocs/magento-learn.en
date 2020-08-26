@@ -12,4 +12,4 @@ team: magentou
 
 Migrating settings, available options and Arguments, and the migration of settings.
 
->[!VIDEO](https://video.tv.adobe.com/v/35828)
+>[!VIDEO](https://video.tv.adobe.com/v/35828?quality=12&learn=on)

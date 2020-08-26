@@ -12,5 +12,5 @@ team: magentou
 
 Learn about the recommended permissions for a customer service representative, creating a customer in the admin, managing customer information and creating customer groups.
 
->[!VIDEO](https://video.tv.adobe.com/v/36188)
+>[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 

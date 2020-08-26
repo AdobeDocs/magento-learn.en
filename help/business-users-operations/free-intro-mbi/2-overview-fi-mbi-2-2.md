@@ -12,4 +12,4 @@ team: magentou
 
 Learn about MBI's core components.
 
->[!VIDEO](https://video.tv.adobe.com/v/35979)
+>[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)

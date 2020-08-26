@@ -20,13 +20,13 @@ As a result, we get a UiComponents grid on the storefront with columns for produ
 * Routes and controllers
 * **di.xml, model, resource model, dataProvider, layout and grid listing**
 
->[!VIDEO](https://video.tv.adobe.com/v/35759)
+>[!VIDEO](https://video.tv.adobe.com/v/35759?quality=12&learn=on)
 
 In the second video, we will modify our UiComponent with a little customization and change the appearance of the price column and customization using mixins.
 * Price rendering
 * Mixins
 
->[!VIDEO](https://video.tv.adobe.com/v/35760)
+>[!VIDEO](https://video.tv.adobe.com/v/35760?quality=12&learn=on)
 
 ## Useful links 
 

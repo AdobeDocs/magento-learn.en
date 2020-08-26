@@ -11,4 +11,4 @@ team: magentou
 
 See an overview of customer management by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35746)
+>[!VIDEO](https://video.tv.adobe.com/v/35746?quality=12&learn=on)

@@ -14,4 +14,4 @@ Learn to assess extension developer credibility​ by determining the quality an
 
 [Exercise Files](/help/security/assets/Security-Exercise-Files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35729)
+>[!VIDEO](https://video.tv.adobe.com/v/35729?quality=12&learn=on)

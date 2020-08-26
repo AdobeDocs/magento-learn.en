@@ -12,4 +12,4 @@ team: magentou
 
 Code base: components, modularity, configuring flexibility, Composer's role
 
->[!VIDEO](https://video.tv.adobe.com/v/36196)
+>[!VIDEO](https://video.tv.adobe.com/v/36196?quality=12&learn=on)

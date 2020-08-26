@@ -12,4 +12,4 @@ team: magentou
 
 Learn about locked users in Magento 2 by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35742)
+>[!VIDEO](https://video.tv.adobe.com/v/35742?quality=12&learn=on)

@@ -12,4 +12,4 @@ team: magentou
 
 Learn about customizing and creating new content types. Understand the steps involved in creating a new content type​. Understand the steps involved in extending an existing content type.
 
->[!VIDEO](https://video.tv.adobe.com/v/35714)
+>[!VIDEO](https://video.tv.adobe.com/v/35714?quality=12&learn=on)

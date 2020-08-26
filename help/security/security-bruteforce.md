@@ -12,4 +12,4 @@ team: magentou
 
 Learn about brute force attacks and how to prevent them, including vulnerable points and prevention measures.
 
->[!VIDEO](https://video.tv.adobe.com/v/35820)
+>[!VIDEO](https://video.tv.adobe.com/v/35820?quality=12&learn=on)

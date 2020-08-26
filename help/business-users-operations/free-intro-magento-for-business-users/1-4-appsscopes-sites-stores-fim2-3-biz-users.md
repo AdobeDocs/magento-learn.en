@@ -12,4 +12,4 @@ team: magentou
 
 The basics of the Magento 2 architecture, including the differences between websites, stores, and store views, and the concept of application scopes, an overview of what indexing and caching are, and how Magento 2 handles them.
 
->[!VIDEO](https://video.tv.adobe.com/v/35945)
+>[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)

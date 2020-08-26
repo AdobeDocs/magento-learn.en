@@ -13,4 +13,4 @@ team: magentou
 Author: Astra Security   Twitter @getastra 
 Learn the steps to securing your freshly installed Magento store.
 
->[!VIDEO](https://video.tv.adobe.com/v/35825)
+>[!VIDEO](https://video.tv.adobe.com/v/35825?quality=12&learn=on)

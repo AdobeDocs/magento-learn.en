@@ -12,4 +12,4 @@ team: magentou
 
 Learn about deployment phases and scripts. In this module the student will understand how the deployment process works from the infrastructure side​.
 
->[!VIDEO](https://video.tv.adobe.com/v/35695)
+>[!VIDEO](https://video.tv.adobe.com/v/35695?quality=12&learn=on)

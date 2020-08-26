@@ -12,4 +12,4 @@ team: magentou
 
 In this video we will setup and demonstrate 3 scenarios for storefront promotions in Magento 2.
 
->[!VIDEO](https://video.tv.adobe.com/v/35773)
+>[!VIDEO](https://video.tv.adobe.com/v/35773?quality=12&learn=on)

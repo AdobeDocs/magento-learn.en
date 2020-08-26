@@ -14,4 +14,4 @@ team: magentou
 
 [Exercise Files](./assets/FreeIntro2.3.1.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/36201)
+>[!VIDEO](https://video.tv.adobe.com/v/36201?quality=12&learn=on)

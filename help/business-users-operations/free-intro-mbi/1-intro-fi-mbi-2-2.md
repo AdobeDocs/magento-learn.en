@@ -12,4 +12,4 @@ team: magentou
 
 Learn about basics of the platform from the perspective of several audiences merchants, web store developers, integrators. 
 
->[!VIDEO](https://video.tv.adobe.com/v/35978)
+>[!VIDEO](https://video.tv.adobe.com/v/35978?quality=12&learn=on)

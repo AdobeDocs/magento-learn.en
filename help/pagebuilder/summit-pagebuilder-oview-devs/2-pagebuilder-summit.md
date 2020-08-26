@@ -12,4 +12,4 @@ team: magentou
 
 Learn how to configure and setup Page Builder​, understand the Page Builder workspace, understand and use content types and add catalog content with Page Builder.
 
->[!VIDEO](https://video.tv.adobe.com/v/35710)
+>[!VIDEO](https://video.tv.adobe.com/v/35710?quality=12&learn=on)

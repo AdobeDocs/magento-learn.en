@@ -12,4 +12,4 @@ team: magentou
 
 Store associates and administrators can learn about the mobile point of sale (mPOS) processes.
 
->[!VIDEO](https://video.tv.adobe.com/v/35974)
+>[!VIDEO](https://video.tv.adobe.com/v/35974?quality=12&learn=on)

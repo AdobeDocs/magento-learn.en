@@ -12,5 +12,5 @@ team: magentou
 
 Learn about backend search terms, synonyms and optimization.
 
->[!VIDEO](https://video.tv.adobe.com/v/35735)
+>[!VIDEO](https://video.tv.adobe.com/v/35735?quality=12&learn=on)
 

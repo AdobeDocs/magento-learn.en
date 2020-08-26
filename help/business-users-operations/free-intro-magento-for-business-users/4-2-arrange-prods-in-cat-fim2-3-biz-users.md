@@ -12,5 +12,5 @@ team: magentou
 
 Learn about positioning products in your categories so that the products you want customers to see first are displayed first.
 
->[!VIDEO](https://video.tv.adobe.com/v/36187)
+>[!VIDEO](https://video.tv.adobe.com/v/36187?quality=12&learn=on)
 

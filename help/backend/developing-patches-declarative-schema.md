@@ -12,7 +12,7 @@ team: magentou
 
 To create a product attribute with a data patch we first need to create the class AddSimpleAttribute and implement DataPatchInterface. Next we need to instantiate the EavSetupFactory class within the constructor.
 
->[!VIDEO](https://video.tv.adobe.com/v/35455)
+>[!VIDEO](https://video.tv.adobe.com/v/35455?quality=12&learn=on)
 
 ## Useful links
 

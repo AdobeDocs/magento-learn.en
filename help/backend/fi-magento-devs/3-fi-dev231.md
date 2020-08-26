@@ -12,4 +12,4 @@ team: magentou
 
 Verify & configure your instance, set u-mask, install sample data, set proper running mode.
 
->[!VIDEO](https://video.tv.adobe.com/v/36195)
+>[!VIDEO](https://video.tv.adobe.com/v/36195?quality=12&learn=on)

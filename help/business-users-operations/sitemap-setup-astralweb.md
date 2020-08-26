@@ -11,4 +11,4 @@ team: magentou
 
 View a sitemap setup tutorial by AstralWeb.
 
->[!VIDEO](https://video.tv.adobe.com/v/35748)
+>[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)

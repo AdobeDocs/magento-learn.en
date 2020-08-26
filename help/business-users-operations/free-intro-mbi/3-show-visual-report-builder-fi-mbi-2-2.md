@@ -12,4 +12,4 @@ team: magentou
 
 Learn about defining metrics.
 
->[!VIDEO](https://video.tv.adobe.com/v/35980)
+>[!VIDEO](https://video.tv.adobe.com/v/35980?quality=12&learn=on)

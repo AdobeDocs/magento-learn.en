@@ -14,4 +14,4 @@ Learn the required steps before the launch of your progressive web app, the base
 
 [Exercise Files](/help/progressive-web-application/assets/PWA-Exercise-Skeleton-files.zip)
 
->[!VIDEO](https://video.tv.adobe.com/v/35717)
+>[!VIDEO](https://video.tv.adobe.com/v/35717?quality=12&learn=on)

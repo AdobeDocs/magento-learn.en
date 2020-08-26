@@ -12,4 +12,4 @@ team: magentou
 
 Learn about data warehousing.
 
->[!VIDEO](https://video.tv.adobe.com/v/35984)
+>[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
