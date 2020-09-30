@@ -2,7 +2,9 @@
 title: Magento community forums
 description: Learn how to be more involved into the Magento community, how to navigate through the community website and more. 
 kt: 5603
-doc-type: feature video
+doc-type: value video
+topic: community
+feature: magento
 audience: all
 activity: understand
 team: magentou

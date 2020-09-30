@@ -2,7 +2,9 @@
 title: Security cross-site scripting prevention
 description: Learn about cross-site scripting prevention. 
 kt: 5668
-doc-type: feature video
+doc-type: technical video
+topic: security
+feature: magento
 audience: developer
 activity: use
 team: magentou

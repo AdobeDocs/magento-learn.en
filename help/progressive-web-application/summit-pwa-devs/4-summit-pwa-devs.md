@@ -3,6 +3,8 @@ title: Summit section 4 progressive web apps PWA for developers
 description: A high level overview of UPWARD.
 kt: 5647
 doc-type: feature video
+topic: progressive-web-app, pwa
+feature: progressive-web-app, pwa
 audience: all
 activity: use
 team: magentou

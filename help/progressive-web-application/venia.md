@@ -2,7 +2,9 @@
 title: Setting up Venia for development
 description: Learn how to set up the Venia storefront for development.
 kt: 5565
-doc-type: feature video
+doc-type: technical video
+topic: progressive-web-app, pwa
+feature: progressive-web-app, pwa
 audience: developer
 activity: use
 team: magentou

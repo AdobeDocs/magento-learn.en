@@ -3,6 +3,8 @@ title: Unit 1 section 5 introduction to Magento v2.3 for business users
 description: Creating store views and clearing the cache.
 kt: 5761
 doc-type: feature video
+topic: magento-admin
+feature: store-views
 audience: all
 activity: use
 team: magentou

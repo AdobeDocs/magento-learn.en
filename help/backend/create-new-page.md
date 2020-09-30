@@ -2,7 +2,9 @@
 title: Create a new page
 description: Create a page that returns json with one parameter.
 kt: 5602
-doc-type: feature video
+doc-type: technical video
+topic: backend, development
+feature: magento
 audience: developer
 activity: use
 team: magentou

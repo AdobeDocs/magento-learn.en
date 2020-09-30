@@ -3,6 +3,8 @@ title: Unit 7 customer service
 description: Learn about order lookup and actions, cancellations, returns, exchanges, appeasements, reshipments.
 kt: 5754
 doc-type: feature video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

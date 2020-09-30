@@ -2,7 +2,9 @@
 title: 9 Magento migration from v1 to v2
 description: Post Migration tasks include working with split databases, group price, customer groups, and customer segments, time zone offset.
 kt: 5678
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: magento
 audience: all
 activity: use
 team: magentou

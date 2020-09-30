@@ -2,7 +2,9 @@
 title: Data migration tool DMT video 4 migration of settings
 description: Migrating settings, available options and Arguments, and the migration of settings.
 kt: 5674
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: data-migration-tool
 audience: developer
 activity: use
 team: magentou

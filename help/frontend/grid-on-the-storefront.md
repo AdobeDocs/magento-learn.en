@@ -2,7 +2,9 @@
 title: Grid on the storefront
 description: Learn about creating a grid on the storefront.
 kt: 5571, 5572
-doc-type: feature video
+doc-type: technical video
+topic: front-end, development
+feature: magento
 audience: developer
 activity: use
 team: magentou

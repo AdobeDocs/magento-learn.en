@@ -2,7 +2,9 @@
 title: Ajax grid video
 description: Learn to create a simple JavaScript jQuery widget module in Magento 2.
 kt: 5573
-doc-type: feature video
+doc-type: technical video
+topic: front-end, development
+feature: magento
 audience: developer
 activity: use
 team: magentou

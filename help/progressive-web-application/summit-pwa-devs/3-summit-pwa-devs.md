@@ -3,6 +3,8 @@ title: Summit section 3 progressive web apps PWA for developers
 description: Learn the required steps before the launch of your progressive web app, the baseline for load time, and how performance improves conversions.
 kt: 5646
 doc-type: feature video
+topic: progressive-web-app, pwa
+feature: progressive-web-app, pwa
 audience: all
 activity: use
 team: magentou

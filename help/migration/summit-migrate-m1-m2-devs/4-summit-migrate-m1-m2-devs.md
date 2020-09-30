@@ -2,7 +2,9 @@
 title: Summit session 4 migration for developers
 description: Learn about custom code, writing custom code and standards we must adhere to.
 kt: 5633
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: magento
 audience: developer
 activity: use
 team: magentou

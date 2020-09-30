@@ -3,6 +3,8 @@ title: Sitemap setup tutorial by AstralWeb
 description: View a sitemap setup tutorial by AstralWeb.
 kt: 5592
 doc-type: feature video
+topic: magento-admin
+feature: sitemap
 audience: all
 activity: use
 team: magentou

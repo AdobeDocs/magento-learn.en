@@ -3,6 +3,8 @@ title: Magento 2 advanced reporting by Astralweb
 description: Learn about advanced reporting in Magento 2.
 kt: 5586
 doc-type: feature video
+topic: reporting
+feature: magento
 audience: all
 activity: use
 team: magentou

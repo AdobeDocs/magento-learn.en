@@ -3,6 +3,8 @@ title: Custom variables in Magento 2 by AstralWeb
 description: Learn about custom variables.
 kt: 5594
 doc-type: feature video
+topic: magento
+feature: complete-site-management
 audience: all
 activity: use
 team: magentou

@@ -2,7 +2,9 @@
 title: Create manual Magento 2 backups by AstralWeb
 description: Learn about creating manual Magento 2 backups.
 kt: 5601 
-doc-type: feature video
+doc-type: technical video
+topic: backups
+feature: magento
 audience: all
 activity: use
 team: magentou

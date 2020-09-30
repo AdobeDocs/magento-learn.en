@@ -2,7 +2,9 @@
 title: MageTalk little bit of code stuff
 description: A Magento podcast discusses coding.
 kt: 5575
-doc-type: feature video
+doc-type: value video
+topic: coding
+feature: magento
 audience: all
 activity: understand
 team: magentou

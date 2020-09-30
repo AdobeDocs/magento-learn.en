@@ -2,7 +2,9 @@
 title: Summit unit 2 getting started with Magento Cloud
 description: Learn about existing Magento Cloud hosting solutions​. Understand differences between Starter and Pro accounts​.
 kt: 5657
-doc-type: feature video
+doc-type: value video
+topic: magento-cloud
+feature: magento-cloud
 audience: all
 activity: use
 team: magentou

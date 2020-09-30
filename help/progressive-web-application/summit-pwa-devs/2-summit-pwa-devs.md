@@ -3,6 +3,8 @@ title: Summit section 2 progressive web apps PWA for developers
 description: View an introduction to Magento PWA Studio.
 kt: 5645
 doc-type: feature video
+topic: pwa-studio
+feature: pwa-studio
 audience: all
 activity: use
 team: magentou

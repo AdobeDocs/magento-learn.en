@@ -3,6 +3,8 @@ title: Unit 6 section 2 in store pickup
 description: Store associates and administrators can learn about the in store pickup process.
 kt: 5751
 doc-type: feature video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

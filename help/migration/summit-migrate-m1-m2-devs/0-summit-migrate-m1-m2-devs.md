@@ -2,7 +2,9 @@
 title: Summit introduction migration for developers
 description: Topics for this video series.
 kt: 5629
-doc-type: feature video
+doc-type: value video
+topic: migration
+feature: magento
 audience: developer
 activity: use
 team: magentou

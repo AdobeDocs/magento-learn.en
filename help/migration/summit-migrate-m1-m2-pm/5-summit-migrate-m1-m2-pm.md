@@ -3,6 +3,8 @@ title: Summit session 5 migrating from Magento 1 to Magento 2 for project manage
 description: Review a 7 step migration plan.
 kt: 5638
 doc-type: feature video
+topic: migration
+feature: magento
 audience: all
 activity: use
 team: magentou

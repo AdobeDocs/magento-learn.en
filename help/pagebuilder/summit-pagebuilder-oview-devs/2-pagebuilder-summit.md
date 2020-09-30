@@ -3,6 +3,8 @@ title: Summit session 2 Page Builder overview for developers
 description: Learn how to configure and setup Page Builder​, understand the Page Builder workspace, understand and use content types and add catalog content with Page Builder.
 kt: 5651
 doc-type: feature video
+topic: page-builder
+feature: page-builder
 audience: all
 activity: use
 team: magentou

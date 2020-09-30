@@ -2,7 +2,9 @@
 title: Magento Functional Testing Framework
 description: Learn about the Magento Functional Testing Framework – how to use it, how to install it, and a quick walkthrough demo.
 kt: 5582
-doc-type: feature video
+doc-type: technical video
+topic: backend, development
+feature: mftf, magento-functional-testing-framework
 audience: developer
 activity: use
 team: magentou

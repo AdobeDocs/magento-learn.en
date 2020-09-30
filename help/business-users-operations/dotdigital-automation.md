@@ -3,6 +3,8 @@ title: DotDigital and Magento 2 automation
 description: Learn about DotDigital and Magento 2 automation.
 kt: 5663
 doc-type: feature video
+topic: omnichannel-marketing
+feature: dotdigital
 audience: all
 activity: use
 team: magentou

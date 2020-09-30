@@ -3,6 +3,8 @@ title: Unit 3 section 3 introduction to Magento v2.3 for business users
 description: Learn about product attributes for various products.
 kt: 5769
 doc-type: feature video
+topic: magento-admin
+feature: product-attribute, catalog-management
 audience: all
 activity: use
 team: magentou

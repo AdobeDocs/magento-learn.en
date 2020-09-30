@@ -2,7 +2,9 @@
 title: Unit 2 free introduction to Magento for developers
 description: Learn about Composer installation and sample data.
 kt: 5692
-doc-type: feature video
+doc-type: technical video
+topic: backend, development
+feature: composer
 audience: developer
 activity: use
 team: magentou

@@ -2,7 +2,9 @@
 title: Creating an order programmatically in your Magento Store
 description: Learn how to place an order in Magento store programmatically
 kt: 5606
-doc-type: feature video
+doc-type: technical video
+topic: backend, development
+feature: magento
 audience: developer
 activity: use
 team: magentou

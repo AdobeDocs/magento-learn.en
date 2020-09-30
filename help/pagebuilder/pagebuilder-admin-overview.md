@@ -3,6 +3,8 @@ title: Page Builder administrator overview
 description: Administrators can learn how to build pages using Page Builder.
 kt: 5563
 doc-type: feature video
+topic: page-builder
+feature: page-builder
 audience: all
 activity: use
 team: magentou

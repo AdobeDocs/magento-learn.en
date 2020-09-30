@@ -2,7 +2,9 @@
 title: Debug the theme for exception required parameter theme_dir was not passed
 description: Learn about theme debugging and exception “Required parameter 'theme_dir' was not passed”.
 kt: 5570
-doc-type: feature video
+doc-type: technical video
+topic: front-end, development
+feature: theme
 audience: developer
 activity: use
 team: magentou

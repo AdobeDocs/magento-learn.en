@@ -3,6 +3,8 @@ title: Unit 5 introduction to Magento Business Intelligence v2.2
 description: Learn about the dashboard and visualization layer.
 kt: 5727
 doc-type: feature video
+topic: mbi
+feature: magento business intelligence
 audience: all
 activity: use
 team: magentou

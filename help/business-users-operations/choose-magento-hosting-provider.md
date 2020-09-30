@@ -3,6 +3,8 @@ title: How to choose the right Magento hosting provider
 description: In this short video you will know more about how to choose the right Magento hosting.
 kt: 5604
 doc-type: feature video
+topic: hosting-provider
+feature: magento
 audience: all
 activity: understand
 team: magentou

@@ -3,6 +3,8 @@ title: Locked users in Magento 2 by AstralWeb
 description: Learn about locked users in Magento 2 by AstralWeb.
 kt: 5583
 doc-type: feature video
+topic: security
+feature: customer-configuration
 audience: all
 activity: use
 team: magentou

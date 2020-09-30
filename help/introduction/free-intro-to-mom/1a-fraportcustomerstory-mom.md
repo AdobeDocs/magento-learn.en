@@ -3,6 +3,8 @@ title: Unit 1 Fraport customer story
 description: View the Fraport customer story.
 kt: 5741
 doc-type: value video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

@@ -3,6 +3,8 @@ title: Unit 1 section 7 role scopes introduction to Magento v2.3 for business us
 description: Learn about role scopes, which is a feature exclusive to Magento Commerce.
 kt: 5763
 doc-type: feature video
+topic: magento-admin
+feature: user-role-scopes
 audience: all
 activity: use
 team: magentou

@@ -2,7 +2,9 @@
 title: Developing patches in declarative schema v2.3
 description: Creating a product attribute with a data patch
 kt: 5559
-doc-type: feature video
+doc-type: technical video
+topic: backend, development
+feature: declarative-schema, data-patch
 audience: developer
 activity: use
 team: magentou

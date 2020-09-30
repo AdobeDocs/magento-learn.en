@@ -3,6 +3,8 @@ title: Unit 6 section 1 ship from store
 description: Store associates and administrators can learn about the ship from store process.
 kt: 5750
 doc-type: feature video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

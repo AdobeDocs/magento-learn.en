@@ -2,7 +2,9 @@
 title: Simple product creation v2
 description: In this short video, we will demonstrate how to create a simple product based on a product attribute set.
 kt: 5608
-doc-type: feature video
+doc-type: technical video
+topic: backend, development, admin
+feature: product-attribute-set
 audience: developer, administrator
 activity: use
 team: magentou

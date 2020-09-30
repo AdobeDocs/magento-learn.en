@@ -3,6 +3,8 @@ title: Introduction to Magento security scan tool by AstralWeb
 description: View an introduction to the Magento security scan tool by AstralWeb.
 kt: 5593
 doc-type: feature video
+topic: security
+feature: magento-security-scan-tool
 audience: all
 activity: use
 team: magentou

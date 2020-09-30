@@ -2,7 +2,9 @@
 title: Splitting price indexer by dimension and run indexation in parallel mode 
 description: Learn how to split catalog product price indexer by dimension.
 kt: 5561, 5562
-doc-type: feature video
+doc-type: technical video
+topic: backend, development
+feature: indexers
 audience: developer
 activity: use
 team: magentou

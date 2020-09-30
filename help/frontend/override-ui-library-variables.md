@@ -2,7 +2,9 @@
 title: Override Magento UI library variables values
 description: Learn to override Magento UI library variables values.
 kt: 5569
-doc-type: feature video
+doc-type: technical video
+topic: front-end, development
+feature: ui-library
 activity: use
 team: magentou
 ---

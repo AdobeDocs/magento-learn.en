@@ -3,6 +3,8 @@ title: Unit 6 section 4 mobile point of sale
 description: Store associates and administrators can learn about the mobile point of sale (mPOS) processes.
 kt: 5753
 doc-type: feature video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

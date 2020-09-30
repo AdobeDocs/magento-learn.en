@@ -3,6 +3,8 @@ title: Unit 2 section 1 introduction to Magento v2.3 for business users
 description: See a demonstration of creating categories.
 kt: 5765
 doc-type: feature video
+topic: magento-admin
+feature: catalog-management
 audience: all
 activity: use
 team: magentou

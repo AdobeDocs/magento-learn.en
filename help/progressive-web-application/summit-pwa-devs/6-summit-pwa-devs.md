@@ -3,6 +3,8 @@ title: Summit section 6 progressive web apps PWA for developers
 description: Learn about Peregrine Hooks and Talons, the Peregrine library and the motivation behind Peregrine.
 kt: 5649
 doc-type: feature video
+topic: progressive-web-app, pwa
+feature: progressive-web-app, pwa, Peregrine
 audience: all
 activity: use
 team: magentou

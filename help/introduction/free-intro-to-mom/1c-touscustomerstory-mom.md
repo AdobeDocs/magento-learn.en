@@ -3,6 +3,8 @@ title: Unit 1 Tous customer Story
 description: View the Tous customer story.
 kt: 5743
 doc-type: value video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

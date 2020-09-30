@@ -2,7 +2,9 @@
 title: Security server side request forgery
 description: Learn about server side request forgery SSRF and how to deal with it.
 kt: 5669
-doc-type: feature video
+doc-type: technical video
+topic: security
+feature: magento
 audience: developer
 activity: use
 team: magentou

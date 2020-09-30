@@ -3,6 +3,8 @@ title: Notifications overview by Astralweb
 description: An overview of notifications by Astralweb.
 kt: 5585
 doc-type: feature video
+topic: magento-admin
+feature: notifications
 audience: all
 activity: use
 team: magentou

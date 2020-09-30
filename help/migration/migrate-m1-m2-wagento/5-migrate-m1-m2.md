@@ -2,7 +2,9 @@
 title: 5 Magento migration from v1 to v2
 description: View a data migration tool overview and learn about using the migration tool to migrate your data. 
 kt: 5683
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: magento, data-migration-tool
 audience: all
 activity: use
 team: magentou

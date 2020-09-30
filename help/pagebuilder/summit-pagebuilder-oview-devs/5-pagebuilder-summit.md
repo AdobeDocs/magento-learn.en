@@ -3,6 +3,8 @@ title: Summit session 5 Page Builder overview for developers
 description: Customize the Page Builder theme.
 kt: 5654
 doc-type: feature video
+topic: page-builder
+feature: page-builder
 audience: all
 activity: use
 team: magentou

@@ -3,6 +3,8 @@ title: Summit session 1 Page Builder overview for developers
 description: An introduction to Page Builder and its capabilities.
 kt: 5650
 doc-type: feature video
+topic: page-builder
+feature: page-builder
 audience: all
 activity: use
 team: magentou

@@ -3,6 +3,8 @@ title: Unit 3 section 6 introduction to Magento v2.3 for business users
 description: Learn about configurable product attributes.
 kt: 5772
 doc-type: feature video
+topic: magento-admin
+feature: product-attribute, catalog-management
 audience: all
 activity: use
 team: magentou

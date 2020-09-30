@@ -2,7 +2,9 @@
 title: 7 Magento migration from v1 to v2
 description: Delta migration updates your M2 store with new orders and customers from your M1 store. You can extend the Tool to migrate additional tables. 
 kt: 5680
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: magento
 audience: all
 activity: use
 team: magentou

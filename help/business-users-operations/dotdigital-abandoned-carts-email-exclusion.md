@@ -3,6 +3,8 @@ title: DotDigital and Magento 2 abandoned carts and email exclusion rules
 description: Learn about DotDigital and Magento 2 abandoned carts and email exclusion rules.
 kt: 5664
 doc-type: feature video
+topic: omnichannel-marketing
+feature: dotdigital
 audience: all
 activity: use
 team: magentou

@@ -3,6 +3,8 @@ title: Unit 1 section 2 introduction to Magento v2.3 for business users
 description: Overview of the admin menu.
 kt: 5758
 doc-type: feature video
+topic: magento-admin
+feature: complete-site-management
 audience: all
 activity: use
 team: magentou

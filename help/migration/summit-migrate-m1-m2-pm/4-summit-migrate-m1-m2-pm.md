@@ -3,6 +3,8 @@ title: Summit session 4 migrating from Magento 1 to Magento 2 for project manage
 description: Learn about custom code, writing custom code and standards to adhere to.
 kt: 5637
 doc-type: feature video
+topic: migration
+feature: magento
 audience: all
 activity: use
 team: magentou

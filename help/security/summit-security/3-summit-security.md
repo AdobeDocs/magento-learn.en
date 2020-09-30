@@ -2,7 +2,9 @@
 title: Summit session 3 security planning for Magento 2
 description: Learn about some common attack vectors targeting Magento​ and how to implement better security protocols to deter exploits​.
 kt: 5641
-doc-type: feature video
+doc-type: value video
+topic: security
+feature: magento
 audience: all
 activity: use
 team: magentou

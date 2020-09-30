@@ -3,6 +3,8 @@ title: Unit 1 section 6 introduction to Magento v2.3 for business users
 description: Learn about users and roles.
 kt: 5762
 doc-type: feature video
+topic: magento-admin
+feature: users, user-roles
 audience: all
 activity: use
 team: magentou

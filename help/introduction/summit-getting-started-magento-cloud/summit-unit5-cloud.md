@@ -3,6 +3,8 @@ title: Summit unit 5 getting started with Magento Cloud
 description: Learn about development configurations. 
 kt: 5660
 doc-type: feature video
+topic: magento-cloud
+feature: magento-cloud
 audience: all
 activity: use
 team: magentou

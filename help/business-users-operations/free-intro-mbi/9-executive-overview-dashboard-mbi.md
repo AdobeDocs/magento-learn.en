@@ -3,6 +3,8 @@ title: Unit 9 introduction to Magento Business Intelligence v2.2
 description: See a demonstration of the executive overview dashboard.
 kt: 5731
 doc-type: feature video
+topic: mbi
+feature: magento business intelligence
 audience: all
 activity: use
 team: magentou

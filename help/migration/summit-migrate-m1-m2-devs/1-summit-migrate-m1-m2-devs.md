@@ -2,7 +2,9 @@
 title: Summit session 1 migration for developers
 description: An overview of the migration steps.
 kt: 5630
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: magento
 audience: developer
 activity: use
 team: magentou

@@ -3,6 +3,8 @@ title: Unit 1 Brown Forman customer story
 description: View the Brown Forman customer story.
 kt: 5744
 doc-type: value video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

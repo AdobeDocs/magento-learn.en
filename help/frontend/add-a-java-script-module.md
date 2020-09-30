@@ -2,7 +2,9 @@
 title: Add a JavaScript module
 description: In this video we will develop a simple JS module that provides the greeting "Hello World".
 kt: 5612
-doc-type: feature video
+doc-type: technical video
+topic: front-end, development
+feature: magento
 audience: developer
 activity: use
 team: magentou

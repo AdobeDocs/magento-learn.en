@@ -2,7 +2,9 @@
 title: Creating websites, stores, and store Views v2-1
 description: Learn how to create websites, stores and store views.
 kt: 5609
-doc-type: feature video
+doc-type: technical video
+topic: magento
+feature: complete-site-management
 audience: all
 activity: use
 team: magentou

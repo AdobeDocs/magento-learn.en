@@ -3,6 +3,8 @@ title: Unit 5 section 1 global inventory visibility
 description: Learn about managing global inventory, calculating ATP and creating aggregates.
 kt: 5748
 doc-type: feature video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

@@ -2,7 +2,9 @@
 title: MageTalk how to pass any test
 description: The MageTalk podcast provides tips pass any test.
 kt: 5578
-doc-type: feature video
+doc-type: value video
+topic: certification
+feature: magento
 audience: all
 activity: understand
 team: magentou

@@ -3,6 +3,8 @@ title: Unit 6 introduction to Magento Business Intelligence v2.2
 description: Learn about sharing results and exporting data.
 kt: 5728
 doc-type: feature video
+topic: mbi
+feature: magento business intelligence
 audience: all
 activity: use
 team: magentou

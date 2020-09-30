@@ -2,7 +2,9 @@
 title: Summit session 4 security planning for Magento 2
 description: Learn to use features built into Magento to build secure modules​.
 kt: 5642
-doc-type: feature video
+doc-type: technical video
+topic: security
+feature: magento
 audience: all
 activity: use
 team: magentou

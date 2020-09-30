@@ -2,7 +2,9 @@
 title: MageTalk general data protection regulation GDPR
 description: MageTalk discusses general data protection regulation GDPR.
 kt: 5576
-doc-type: feature video
+doc-type: value video
+topic: general-data-protection-regulation, gdpr
+feature: magento
 audience: all
 activity: understand
 team: magentou

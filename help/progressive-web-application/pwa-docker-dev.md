@@ -2,7 +2,9 @@
 title: Progressive web app PWA Docker development
 description: Learn about Magento progressive web app Docker development.
 kt: 5564
-doc-type: feature video
+doc-type: technical video
+topic: progressive-web-app, pwa
+feature: progressive-web-app, pwa
 audience: developer
 activity: use
 team: magentou

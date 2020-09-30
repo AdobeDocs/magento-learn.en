@@ -2,7 +2,9 @@
 title: Unit 4 free introduction to Magento for developers
 description: Code base components, modularity, configuring flexibility, Composer's role
 kt: 5694
-doc-type: feature video
+doc-type: technical video
+topic: backend, development
+feature: magento
 audience: developer
 activity: use
 team: magentou

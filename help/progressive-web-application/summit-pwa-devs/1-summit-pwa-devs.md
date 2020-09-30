@@ -3,6 +3,8 @@ title: Summit section 1 progressive web apps PWA for developers
 description: Learn about progressive web apps PWA and why PWA Studio is the future​. 
 kt: 5644
 doc-type: feature video
+topic: progressive-web-app, pwa
+feature: progressive-web-app, pwa
 audience: all
 activity: use
 team: magentou

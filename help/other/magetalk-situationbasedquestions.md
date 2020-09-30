@@ -2,7 +2,9 @@
 title: MageTalk situation-based certification exam questions
 description: The MageTalk podcast discusses the benefits of situation-based certification exam questions.
 kt: 5579
-doc-type: feature video
+doc-type: value video
+topic: certification
+feature: magento
 audience: all
 activity: understand
 team: magentou

@@ -2,7 +2,9 @@
 title: 6 Part 2 Magento migration from v1 to v2
 description: Data Migration part 2. Refer to Magento DevDocs, review the configuration file, and configure migration.
 kt: 5681
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: magento
 audience: all
 activity: use
 team: magentou

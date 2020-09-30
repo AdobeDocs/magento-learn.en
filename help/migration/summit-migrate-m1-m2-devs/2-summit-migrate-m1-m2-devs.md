@@ -2,7 +2,9 @@
 title: Summit session 2 migration for developers
 description: Learn about choosing and customizing a new theme.
 kt: 5631
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: magento
 audience: developer
 activity: use
 team: magentou

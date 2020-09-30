@@ -2,7 +2,9 @@
 title: MageTalk preparing for a certification exam
 description: Advice for preparing for a certification exam.
 kt: 5577
-doc-type: feature video
+doc-type: value video
+topic: certification
+feature: magento
 audience: all
 activity: understand
 team: magentou

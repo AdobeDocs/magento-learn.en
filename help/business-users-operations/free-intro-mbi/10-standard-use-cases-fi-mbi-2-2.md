@@ -3,6 +3,8 @@ title: Unit 10 introduction to Magento Business Intelligence v2.2
 description: Learn about MBI standard use cases.
 kt: 5733
 doc-type: feature video
+topic: mbi
+feature: magento business intelligence
 audience: all
 activity: use
 team: magentou

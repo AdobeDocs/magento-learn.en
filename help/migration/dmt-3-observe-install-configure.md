@@ -2,7 +2,9 @@
 title: Data migration tool DMT video 3 observe install configure
 description: Observe your stores, install and configure the tool.
 kt: 5675
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: data-migration-tool
 audience: developer
 activity: use
 team: magentou

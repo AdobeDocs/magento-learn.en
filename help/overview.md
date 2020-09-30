@@ -5,7 +5,7 @@ description: A collection of videos and tutorials for Adobe Magento Commerce
 
 # Overview {#overview}
 
-A collection of videos and tutorials for Adobe Magento Commerce is a leading e-commerce platform. This user guide contains videos and tutorials on the many features and capabilities of Adobe Magento Commerce.
+This is a collection of videos and tutorials for Adobe Magento Commerce, a leading e-commerce platform.
 
 These basic resources include video series providing a high-level view of topics, and individual videos targeting specific tasks and processes. You will find helpful content for backend developers, frontend developers, system administrators, support teams, project managers, and decision-makers.
 

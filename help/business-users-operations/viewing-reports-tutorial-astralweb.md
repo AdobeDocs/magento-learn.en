@@ -3,6 +3,8 @@ title: Viewing reports by AstralWeb
 description: Learn about viewing reports by AstralWeb.
 kt: 5589
 doc-type: feature video
+topic: reporting
+feature: magento
 audience: all
 activity: use
 team: magentou

@@ -2,7 +2,9 @@
 title: 6 Magento migration from v1 to v2
 description: Learn about starting data migration.
 kt: 5682
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: magento
 audience: all
 activity: use
 team: magentou

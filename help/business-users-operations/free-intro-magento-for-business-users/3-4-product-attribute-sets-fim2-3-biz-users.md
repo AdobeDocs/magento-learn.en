@@ -3,6 +3,8 @@ title: Unit 3 section 4 introduction to Magento v2.3 for business users
 description: Learn about product attribute sets.
 kt: 5770
 doc-type: feature video
+topic: magento-admin
+feature: product-attribute, catalog-management
 audience: all
 activity: use
 team: magentou

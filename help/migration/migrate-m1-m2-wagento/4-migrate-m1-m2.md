@@ -2,7 +2,9 @@
 title: 4 Magento migration from v1 to v2
 description: Episode 4 in the "Migration from Magento 1 to Magento 2." Magento 1 code will require rewriting. Learn about the migration toolkit and steps to run your migration.
 kt: 5684
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: magento
 audience: all
 activity: use
 team: magentou

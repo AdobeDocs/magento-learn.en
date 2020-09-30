@@ -2,7 +2,9 @@
 title: Data migration tool DMT video 2 initial data
 description: Examine the data you will be migrating and compare tables and fields.
 kt: 5676
-doc-type: feature video
+doc-type: technical video
+topic: migration
+feature: data-migration-tool
 audience: developer
 activity: use
 team: magentou

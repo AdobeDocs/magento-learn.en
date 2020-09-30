@@ -3,6 +3,8 @@ title: How to process orders, credit memos, refunds by AstralWeb
 description: Learn how to process orders, credit memos, refunds by AstralWeb.
 kt: 5584
 doc-type: feature video
+topic: magento-admin
+feature: customer-service
 audience: all
 activity: use
 team: magentou

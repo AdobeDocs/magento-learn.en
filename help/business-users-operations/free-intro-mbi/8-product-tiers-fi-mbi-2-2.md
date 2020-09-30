@@ -3,6 +3,8 @@ title: Unit 8 introduction to Magento Business Intelligence v2.2
 description: Learn about MBI product tiers.
 kt: 5730
 doc-type: feature video
+topic: mbi
+feature: magento business intelligence
 audience: all
 activity: use
 team: magentou

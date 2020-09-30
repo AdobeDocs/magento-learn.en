@@ -3,6 +3,8 @@ title: Backend search terms synonyms and optimization by AstralWeb
 description: Learn about backend search terms, synonyms and optimization.
 kt: 5590
 doc-type: feature video
+topic: search
+feature: magento
 audience: all
 activity: use
 team: magentou

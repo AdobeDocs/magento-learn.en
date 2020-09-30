@@ -2,7 +2,9 @@
 title: Summit session 2 security planning for Magento 2
 description: Learn high level best practices to use with your stores​.
 kt: 5640
-doc-type: feature video
+doc-type: value video
+topic: security
+feature: magento
 audience: all
 activity: use
 team: magentou

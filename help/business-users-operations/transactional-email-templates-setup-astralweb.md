@@ -3,6 +3,8 @@ title: Transactional email templates and setup by AstralWeb
 description: Learn about transactional email templates and setup by AstralWeb.
 kt: 5588
 doc-type: feature video
+topic: magento-admin
+feature: marketing, promotions
 audience: all
 activity: use
 team: magentou

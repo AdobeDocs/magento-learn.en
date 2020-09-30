@@ -3,6 +3,8 @@ title: Unit 9 Magento Business Intelligence
 description: Learn about Magento Business Intelligence for order management systems.
 kt: 5756
 doc-type: feature video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

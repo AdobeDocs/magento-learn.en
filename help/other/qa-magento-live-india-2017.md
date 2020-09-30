@@ -2,7 +2,9 @@
 title: QA session from introduction to Magento 2 at Magento Live India, 2017
 description: In this video Vijay Golani from Wagento hosts a question answer session at Magento Live India, 2017.
 kt: 5581
-doc-type: feature video
+doc-type: value video
+topic: magento
+feature: magento
 audience: all
 activity: understand
 team: magentou

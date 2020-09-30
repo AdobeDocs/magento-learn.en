@@ -2,7 +2,9 @@
 title: Hardening a Linux server before installing Magento by Astra
 description: Learn the steps to harden linux server before installing Magento.
 kt: 5671
-doc-type: feature video
+doc-type: technical video
+topic: backend, development, security, linux-server
+feature: magento
 audience: developer
 activity: use
 team: magentou

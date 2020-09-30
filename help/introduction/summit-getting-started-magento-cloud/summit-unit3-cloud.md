@@ -2,7 +2,9 @@
 title: Summit unit 3 getting started with Magento Cloud
 description: Learn about project structure and yaml files. At the end of this module the student will understand the file structure of the Cloud project and all repositories necessary for Magento Cloud.
 kt: 5658
-doc-type: feature video
+doc-type: technical video
+topic: cloud-project-structure
+feature: magento-cloud
 audience: all
 activity: use
 team: magentou

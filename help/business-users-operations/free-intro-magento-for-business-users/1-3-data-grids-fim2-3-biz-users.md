@@ -3,6 +3,8 @@ title: Unit 1 section 3 introduction to Magento v2.3 for business users
 description: Learn about working with data grids.
 kt: 5759
 doc-type: feature video
+topic: magento-admin
+feature: complete-site-management
 audience: all
 activity: use
 team: magentou

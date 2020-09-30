@@ -3,6 +3,8 @@ title: Summit session 3 migrating from Magento 1 to Magento 2 for project manage
 description: Learn about working with existing extensions, minimum viable product and phased approach.
 kt: 5636
 doc-type: feature video
+topic: migration
+feature: magento
 audience: all
 activity: use
 team: magentou

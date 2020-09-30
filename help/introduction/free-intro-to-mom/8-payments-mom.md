@@ -3,6 +3,8 @@ title: Unit 8 payments
 description: Learn about custom payment integration, out-of-the-box strategies and offline strategy.
 kt: 5755
 doc-type: feature video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

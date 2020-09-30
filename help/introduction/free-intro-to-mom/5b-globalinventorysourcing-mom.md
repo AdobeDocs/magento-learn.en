@@ -3,6 +3,8 @@ title: Unit 5 section 2 global inventory sourcing
 description: Gain understanding about allocation and using the sourcing engine.
 kt: 5749
 doc-type: feature video
+topic: order-management
+feature: magento-order-management
 audience: all
 activity: use
 team: magentou

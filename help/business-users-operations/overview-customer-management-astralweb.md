@@ -3,6 +3,8 @@ title: Overview of customer management by AstralWeb
 description: See an overview of customer management by AstralWeb.
 kt: 5599
 doc-type: feature video
+topic: magento-admin
+feature: customer-service
 audience: all
 activity: use
 team: magentou
