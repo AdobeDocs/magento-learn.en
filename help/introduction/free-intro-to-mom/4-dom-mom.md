@@ -1,5 +1,5 @@
 ---
-title: Unit 4 distributed order management
+title: Unit 4 distributed Order Management
 description: Learn about order flow and event management.
 kt: 5747
 doc-type: feature video
@@ -10,7 +10,7 @@ activity: use
 team: magentou
 ---
 
-# Unit 4 distributed order management {#main-page-heading}
+# Unit 4 distributed Order Management {#main-page-heading}
 
 Learn about order flow and event management.
 

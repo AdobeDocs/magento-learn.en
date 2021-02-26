@@ -1,5 +1,5 @@
 ---
-title: Unit 1 why use order management
+title: Unit 1 why use Order Management
 description: Learn about the value proposition for primary use cases, inventory complexity and omnichannel.
 kt: 5740
 doc-type: value video
@@ -10,7 +10,7 @@ activity: use
 team: magentou
 ---
 
-# Unit 1 why use order management {#main-page-heading}
+# Unit 1 why use Order Management {#main-page-heading}
 
 Learn about the value proposition for primary use cases, inventory complexity and omnichannel.
 

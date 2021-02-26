@@ -10,7 +10,7 @@ activity: use
 team: magentou
 ---
 
-# Summit session 4 Page Builder overview for developers {#main-page-heading}
+# Summit session 4 [!UICONTROL Page Builder] overview for developers {#main-page-heading}
 
 Learn about administrator and stage theming tasks, create administrator templates and apply styles to content types on the stage.
 

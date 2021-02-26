@@ -10,8 +10,8 @@ activity: use
 team: magentou
 ---
 
-# Fraport customer story {#main-page-heading}
+# [!DNL Fraport] customer story {#main-page-heading}
 
-View the Fraport customer story.
+View the [!DNL Fraport] customer story.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35962?quality=12&learn=on)

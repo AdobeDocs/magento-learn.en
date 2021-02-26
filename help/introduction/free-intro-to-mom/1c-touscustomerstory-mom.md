@@ -10,8 +10,8 @@ activity: use
 team: magentou
 ---
 
-# Tous customer story {#main-page-heading}
+# [!DNL Tous] customer story {#main-page-heading}
 
-View the Tous customer story.
+View the [!DNL Tous] customer story.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35963?quality=12&learn=on)

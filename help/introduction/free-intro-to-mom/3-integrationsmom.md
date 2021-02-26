@@ -12,6 +12,6 @@ team: magentou
 
 # Unit 3 integrations overview {#main-page-heading}
 
-Learn about Magento Order Management integrations including the API, connector overview, and the concept of what an integration is.
+Learn about [!UICONTROL Magento Order Management] integrations including the API, connector overview, and the concept of what an integration is.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35967?quality=12&learn=on)

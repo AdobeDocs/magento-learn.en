@@ -10,8 +10,8 @@ activity: use
 team: magentou
 ---
 
-# Summit session 1 Page Builder overview for developers {#main-page-heading}
+# Summit session 1 [!UICONTROL Page Builder] overview for developers {#main-page-heading}
 
-An introduction to Page Builder and its capabilities.
+An introduction to [!UICONTROL Page Builder] and its capabilities.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)

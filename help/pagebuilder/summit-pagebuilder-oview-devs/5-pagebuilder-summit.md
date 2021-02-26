@@ -10,8 +10,8 @@ activity: use
 team: magentou
 ---
 
-# Summit session 5 Page Builder overview for developers {#main-page-heading}
+# Summit session 5 [!UICONTROL Page Builder] overview for developers {#main-page-heading}
 
-Customize the Page Builder theme.
+Customize the [!UICONTROL Page Builder] theme.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)

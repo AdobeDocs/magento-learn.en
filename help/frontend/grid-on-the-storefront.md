@@ -12,11 +12,11 @@ team: magentou
 
 # Grid on the storefront {#main-page-heading}
 
-We are all used to seeing UiComponents grids on the Magento backend, such as the product page grid. We can create the same grid on the Magento 2 storefront. These videos show you how to create UiComponents grids on the storefront in your Magento 2 store.
+We are all used to seeing [!UICONTROL UiComponents] grids on the Magento backend, such as the product page grid. We can create the same grid on the Magento 2 storefront. These videos show you how to create [!UICONTROL UiComponents] grids on the storefront in your Magento 2 store.
 
 We will see a lot of PHP and xml, but the grids are built on JavaScript. JavaScript renders parts of the UI interface on the browser side, regardless of the page context.
 
-As a result, we get a UiComponents grid on the storefront with columns for product name, quantity and price. The price column will be displayed with price formatting.
+As a result, we get a [!UICONTROL UiComponents] grid on the storefront with columns for product name, quantity and price. The price column will be displayed with price formatting.
 
 * Create a module with install scripts (**FreeJsVideos_FrontendGridUi**)
 * Routes and controllers
@@ -24,7 +24,7 @@ As a result, we get a UiComponents grid on the storefront with columns for produ
 
 >[!VIDEO](https://video.tv.adobe.com/v/35759?quality=12&learn=on)
 
-In the second video, we will modify our UiComponent with a little customization and change the appearance of the price column and customization using mixins.
+In the second video, we will modify our [!UICONTROL UiComponent] with a little customization and change the appearance of the price column and customization using mixins.
 * Price rendering
 * Mixins
 

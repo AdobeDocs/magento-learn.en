@@ -12,7 +12,7 @@ team: magentou
 
 # Summit section 4 progressive web apps PWA for developers {#main-page-heading}
 
-A high level overveiew of UPWARD.
+A high level overview of UPWARD.
 
 [Exercise Files](/help/progressive-web-application/assets/PWA-Exercise-Skeleton-files.zip)
 

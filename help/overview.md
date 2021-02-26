@@ -11,7 +11,7 @@ These basic resources include video series providing a high-level view of topics
 
 Basic entry-level subsets of some of the most thorough Magento courses include:
 * [Intro to Magento for Developers](./backend/fi-magento-devs/1-1-fi-dev231.md) is an overview of the platform for backend developers
-* [Intro to Magento for Business Users](./business-users-operations/free-intro-magento-for-business-users/1-1-introduction-fim2-3-biz-users.md) will help anyone get to know Admin side of Magento
+* [Intro to Magento for Business Users](./business-users-operations/free-intro-magento-for-business-users/1-1-introduction-fim2-3-biz-users.md) will help anyone get to know administrative side of Magento
 * [Migrating from Magento 1 to Magento 2](./migration/migrate-m1-m2-wagento/1-migrate-m1-m2.md) is a huge topic with several videos and series to help anyone understand what is involved in a Magento migration
 
 Many of these videos come from users just like you in the Magento Community. All of the videos were created by Magento experts with several years experience.
@@ -32,7 +32,7 @@ Many of these videos come from users just like you in the Magento Community. All
 
 * **[Page Builder Overview for Developers (Video Series)](./pagebuilder/summit-pagebuilder-oview-devs/1-pagebuilder-summit.md)**
     <br>
-    *How Page Builder works, and ways to customize Page Builder*
+    *How [!DNL Page Builder] works, and ways to customize [!DNL Page Builder]*
 
 ## Additional Resources
 

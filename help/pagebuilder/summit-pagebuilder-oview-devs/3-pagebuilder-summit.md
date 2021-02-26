@@ -10,8 +10,8 @@ activity: use
 team: magentou
 ---
 
-# Summit session 3 Page Builder overview for developers {#main-page-heading}
+# Summit session 3 [!UICONTROL Page Builder] overview for developers {#main-page-heading}
 
-Receive an overview of theming practices, learn to describe the theming conventions​and explain where each part of the Page Builder theme is located.
+Receive an overview of theming practices, learn to describe the theming conventions​and explain where each part of the [!UICONTROL Page Builder] theme is located.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)

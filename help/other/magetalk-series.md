@@ -8,29 +8,29 @@ activity: understand
 team: magentou
 ---
 
-# MageTalk series {#main-page-heading}
+# [!DNL MageTalk] series {#main-page-heading}
 
 In these videos, you will learn about general data protection regulation (GDPR), tips to pass any test, situation-based certification exam questions, coding best practices.
 
 ## Video Content
 
-* MageTalk GDPR
+* [!DNL MageTalk] GDPR
 
 >[!VIDEO](https://video.tv.adobe.com/v/35763?quality=12&learn=on)
 
-* MageTalk How to Pass Any Test
+* [!DNL MageTalk] How to Pass Any Test
 
 >[!VIDEO](https://video.tv.adobe.com/v/35764?quality=12&learn=on)
 
-* MageTalk Little bit of code stuff
+* [!DNL MageTalk] Little bit of code stuff
 
 >[!VIDEO](https://video.tv.adobe.com/v/35765?quality=12&learn=on)
 
-* MageTalk Preparing for a Certification Exam
+* [!DNL MageTalk] Preparing for a Certification Exam
 
 >[!VIDEO](https://video.tv.adobe.com/v/35766?quality=12&learn=on)
 
-* MageTalk Situation-based Certification Exam Questions
+* [!DNL MageTalk] Situation-based Certification Exam Questions
 
 >[!VIDEO](https://video.tv.adobe.com/v/35767?quality=12&learn=on)
 

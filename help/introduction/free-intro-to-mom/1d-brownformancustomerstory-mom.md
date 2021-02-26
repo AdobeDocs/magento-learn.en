@@ -10,8 +10,8 @@ activity: use
 team: magentou
 ---
 
-# Brown Forman customer story {#main-page-heading}
+# [!DNL Brown Forman] customer story {#main-page-heading}
 
-View the Brown Forman customer story.
+View the [!DNL Brown Forman] customer story.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35965?quality=12&learn=on)

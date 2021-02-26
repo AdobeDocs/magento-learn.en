@@ -10,9 +10,9 @@ activity: understand
 team: magentou
 ---
 
-# MageTalk situation-based certification exam questions {#main-page-heading}
+# [!DNL MageTalk] situation-based certification exam questions {#main-page-heading}
 
-The MageTalk podcast discusses the benefits of situation-based certification exam questions.
+The [!DNL MageTalk] podcast discusses the benefits of situation-based certification exam questions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35767?quality=12&learn=on)
 

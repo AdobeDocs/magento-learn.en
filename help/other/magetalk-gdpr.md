@@ -10,9 +10,9 @@ activity: understand
 team: magentou
 ---
 
-# MageTalk general data protection regulation GDPR {#main-page-heading}
+# [!DNL MageTalk] general data protection regulation GDPR {#main-page-heading}
 
-MageTalk discusses general data protection regulation (GDPR).
+[!DNL MageTalk] discusses general data protection regulation (GDPR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35763?quality=12&learn=on)
 
