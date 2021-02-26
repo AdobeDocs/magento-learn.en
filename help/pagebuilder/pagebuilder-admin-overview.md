@@ -10,7 +10,7 @@ activity: use
 team: magentou
 ---
 
-# Page Builder administrator overview {#main-page-heading}
+# [!UICONTROL Page Builder] administrator overview {#main-page-heading}
 
 Administrators can learn how to build pages using Page Builder.
 

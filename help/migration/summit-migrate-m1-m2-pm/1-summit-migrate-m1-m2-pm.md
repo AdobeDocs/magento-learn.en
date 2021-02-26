@@ -12,7 +12,7 @@ team: magentou
 
 # Summit session 1 migrating from Magento 1 to Magento 2 for project managers {#main-page-heading}
 
-Introduction to the series "Migrating from Magento 1 to Magento 2 for Project Managers."
+Introduction to the series _Migrating from Magento 1 to Magento 2 for Project Managers_.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35698?quality=12&learn=on)
 

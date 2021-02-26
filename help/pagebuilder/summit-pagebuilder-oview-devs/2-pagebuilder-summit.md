@@ -10,8 +10,8 @@ activity: use
 team: magentou
 ---
 
-# Summit session 2 Page Builder overview for developers {#main-page-heading}
+# Summit session 2 [!UICONTROL Page Builder] overview for developers {#main-page-heading}
 
-Learn how to configure and setup Page Builder​, understand the Page Builder workspace, understand and use content types and add catalog content with Page Builder.
+Learn how to configure and setup [!UICONTROL Page Builder]​, understand the [!UICONTROL Page Builder] workspace, understand and use content types and add catalog content with [!UICONTROL Page Builder].
 
 >[!VIDEO](https://video.tv.adobe.com/v/35710?quality=12&learn=on)

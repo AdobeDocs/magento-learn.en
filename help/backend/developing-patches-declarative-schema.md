@@ -12,7 +12,7 @@ team: magentou
 
 # Developing patches in declarative schema v2.3 {#main-page-heading}
 
-To create a product attribute with a data patch we first need to create the class AddSimpleAttribute and implement DataPatchInterface. Next we need to instantiate the EavSetupFactory class within the constructor.
+To create a product attribute with a data patch we first need to create the class `AddSimpleAttribute` and implement `DataPatchInterface`. Next we need to instantiate the `EavSetupFactory` class within the constructor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35455?quality=12&learn=on)
 

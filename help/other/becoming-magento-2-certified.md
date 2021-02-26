@@ -12,6 +12,6 @@ team: magentou
 
 # Becoming Magento 2 certified {#main-page-heading}
 
-Magento Master Vinai Kopp discusses Magento certifications in this conference recording.
+Magento expert Vinai Kopp discusses Magento certifications in this conference recording.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35755?quality=12&learn=on)

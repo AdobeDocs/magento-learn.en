@@ -12,7 +12,7 @@ team: magentou
 
 # Summit section 5 progressive web apps PWA for developers {#main-page-heading}
 
-Learn how to get started with Magento PWA Studio from initial project setup to generating a local SSL certificate​ and buildpack CLI commands.
+Learn how to get started with Magento PWA Studio from initial project setup to generating a local SSL certificate​ and build pack CLI commands.
 
 [Exercise Files](/help/progressive-web-application/assets/PWA-Exercise-Skeleton-files.zip)
 

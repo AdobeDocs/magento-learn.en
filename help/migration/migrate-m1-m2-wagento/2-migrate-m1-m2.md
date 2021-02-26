@@ -12,7 +12,7 @@ team: magentou
 
 # 2 Magento migration from v1 to v2 {#main-page-heading}
 
-Migration and your theme. Episode 2 in the "Migration from Magento 1 to Magento 2" series covers theming options during migration.
+Migration and your theme. Episode 2 in the _Migration from Magento 1 to Magento 2_ series covers theming options during migration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35840?quality=12&learn=on)
 

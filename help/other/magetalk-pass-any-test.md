@@ -10,9 +10,9 @@ activity: understand
 team: magentou
 ---
 
-# MageTalk how to pass any test {#main-page-heading}
+# [!DNL MageTalk] how to pass any test {#main-page-heading}
 
-The MageTalk podcast provides tips pass any test.
+The [!DNL MageTalk] podcast provides tips pass any test.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35764?quality=12&learn=on)
 

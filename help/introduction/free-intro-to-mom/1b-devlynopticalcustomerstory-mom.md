@@ -10,8 +10,8 @@ activity: use
 team: magentou
 ---
 
-# Devlyn Optical customer story {#main-page-heading}
+# [!DNL Devlyn Optical] customer story {#main-page-heading}
 
-View the Devlyn Optical customer story.
+View the [!DNL Devlyn Optical] customer story.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39843/?quality=12&learn=on)

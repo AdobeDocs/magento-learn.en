@@ -12,6 +12,6 @@ team: magentou
 
 # Setting up Venia for development {#main-page-heading}
 
-Learn how to set up the Venia storefront for development.
+Learn how to set up the [!DNL Venia] storefront for development.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35785?quality=12&learn=on)

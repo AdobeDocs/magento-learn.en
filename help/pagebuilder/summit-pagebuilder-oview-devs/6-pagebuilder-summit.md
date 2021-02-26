@@ -10,7 +10,7 @@ activity: use
 team: magentou
 ---
 
-# Summit session 6 Page Builder overview for developers {#main-page-heading}
+# Summit session 6 [!UICONTROL Page Builder] overview for developers {#main-page-heading}
 
 Learn about customizing and creating new content types. Understand the steps involved in creating a new content type​. Understand the steps involved in extending an existing content type.
 
