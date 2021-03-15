@@ -4,6 +4,7 @@ user-guide-description: This guide contains videos and tutorials on the many fea
 product: magento
 solution: Magento
 type: Tutorial
+hide: yes
 ---
 
 # Magento Videos and Tutorials {#tutorials}
