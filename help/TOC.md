@@ -7,6 +7,6 @@ type: Tutorial
 hide: yes
 ---
 
-# Magento Videos and Tutorials {#tutorials}
+# Magento Videos and Tutorials {#deleteme}
 
 + [Overview](overview.md)
