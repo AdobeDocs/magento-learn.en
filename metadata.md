@@ -1,12 +1,7 @@
 ---
-cloud: commerce-cloud
-solution-title: Magento Docs
-solution-hub-url: https://magento.com/technical-resources
-solution-icon: assets/logo-adobe-magento.png
-getting-started-title: Getting Started
-getting-started-url: https://magento.com/technical-resources
-tutorials-title: Tutorials
-tutorials-url: https://magento.com/technical-resources
+product: magento
+solution: Adobe Commerce
+type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/magento-learn.en
 index: yes
